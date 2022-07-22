@@ -12,7 +12,7 @@ Our crypto brethren have traveled far from their gaseous world, so the least we 
 
 While team #Solana has delivered their promise of speed, our #NFT space is sadly still riddled with controversy.
 
-\#Solana is filled with many helpful members - some aid with education @gaius1337, some make us laugh @icedknife, while others lift us up in times of uncertainty @powerofpixel.
+\#Solana is filled with many helpful members - some aid with education, some make us laugh, while others lift us up in times of uncertainty.
 
 Unfortunately there are those among us, who are less than savory.
 
