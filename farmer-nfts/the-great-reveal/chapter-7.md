@@ -12,7 +12,7 @@ So how can you qualify for our whitelist? Here are a few ways:
 
 1\) Invest in our Bitcoin Accumulator product.
 
-2\) Pass our Weekly Knowledge Quiz.
+2\) Pass our Knowledge Quiz.
 
 3\) Have genuine conversations in our server - our Sophie AI will be shortlisting Players.
 
