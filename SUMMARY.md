@@ -38,6 +38,8 @@
   * [Aljunied](player-2-wiki/aljunied.md)
   * [Tamarind](player-2-wiki/tamarind.md)
   * [PC-07](player-2-wiki/pc-07.md)
+  * [Dandi](player-2-wiki/dandi.md)
+  * [Nettly](player-2-wiki/nettly.md)
 * [FAQ](faq/README.md)
   * [What is the Bitcoin Accumulator?](faq/what-is-the-bitcoin-accumulator.md)
   * [How do I get started on the Bitcoin Accumulator?](faq/how-do-i-get-started-on-the-bitcoin-accumulator.md)
