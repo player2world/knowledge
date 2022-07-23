@@ -1,3 +1,14 @@
 # Winterrose
 
-![](../.gitbook/assets/Winterrose-CharacterCard.png)
+![Winterrose the Wise](../.gitbook/assets/character\_frame\_winterrose.png)
+
+#### Winterrose the Wise
+
+Type: NPC
+
+Winterrose the Wise, is his chosen guise.\
+The origin of his being, we may only surmise.\
+Imbued with profound knowledge, nobody disagrees.\
+Serving as a guide, he does with ease.\
+Legend has it, he holds a special key.\
+What it unlocks, we shall have to wait and see.
