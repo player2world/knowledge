@@ -12,14 +12,10 @@ We launched a mini [#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag\_click) 
 
 We also wanted to give Players the convenience under one roof, so we also built the requisite [#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag\_click) functions.&#x20;
 
-In our Brewery you'll be able to:
-
-\- Swap&#x20;
-
-\- Add liquidity&#x20;
-
-\- Buy bonds&#x20;
-
+In our Brewery you'll be able to:\
+\- Swap \
+\- Add liquidity \
+\- Buy bonds \
 \- And upgrade to our Bitcoin Accumulator&#x20;
 
 All with the help of fun NPC characters!

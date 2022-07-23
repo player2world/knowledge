@@ -13,7 +13,7 @@ A: A utility NFT for our Player 2 world. It will act as an access pass to our ga
 Q: Why should I care?
 
 A: Tired of ponzinomics? Tired of coins and NFTs with no intrinsic value? \
-We've solved them both. Our project has real revenue and our tokens are backed with collateral. We're bear market proof. We're the new meta.
+We've solved them both. Our project has real revenue and our tokens are backed with collateral. We're bear market proof. We're the new meta. We're the #valuemeta.
 
 Q: How many will be available?
 
@@ -26,7 +26,7 @@ They are priced affordably for accessibility.
 
 Q: I don't like my NFT. Can I get a refund?
 
-A: Good joke. But yes you can. We did say all our tokens are collateralized - we weren't kidding. Once our game launches, there will be an in-game feature to burn your NFT to get at least your mint price back. It will likely be more, so you're almost guaranteed a slight profit. We don't say that lightly.
+A: Good joke. But yes you can. We did say all our tokens are collateralized - we weren't kidding. Once our game launches, there will be an in-game feature to burn your NFT.
 
 Q: What's the secret?
 
@@ -41,11 +41,11 @@ Q: Ok I'm convinced. How do I purchase one of these "NFTs"?
 A: Get on our whitelist. Each whitelist spot grants you 2 mints.\
 Here are 5 ways: \
 1\) Invest in our Bitcoin Accumulator product\
-2\) Pass our Weekly Knowledge Quiz\
+2\) Pass our Knowledge Quiz\
 3\) Have genuine conversations in our server - our Sophie AI will be shortlisting Players\
 4\) Win spots on other Solana DAOs\
 5\) Participate in our Twitter giveaways.
 
 Q: Wen mint?
 
-A: Soon ser. Likely end July.
+A: Soon ser. Likely end July / early August.
