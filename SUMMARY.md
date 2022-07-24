@@ -15,6 +15,7 @@
   * [Stickiness](what-makes-player-2-different/stickiness.md)
   * [Collateral](what-makes-player-2-different/collateral.md)
   * [Products](what-makes-player-2-different/products.md)
+* [Player Oath](player-oath.md)
 * [The Deo](the-deo/README.md)
   * [Pre-earn DEOs](the-deo/pre-earn-deos/README.md)
     * [100-day Challenge](the-deo/pre-earn-deos/100-day-challenge.md)
