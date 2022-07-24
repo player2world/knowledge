@@ -1,6 +1,6 @@
 # Winterrose
 
-![Winterrose the Wise](../.gitbook/assets/character\_frame\_winterrose.png)
+![](../.gitbook/assets/character\_frame\_winterrose.png)
 
 #### Winterrose the Wise
 

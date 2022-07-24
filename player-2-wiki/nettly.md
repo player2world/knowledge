@@ -1,6 +1,6 @@
 # Nettly
 
-![Nettly the Farmer](../.gitbook/assets/character\_frame\_nettly.png)
+![](../.gitbook/assets/character\_frame\_nettly.png)
 
 #### Nettly the Farmer
 

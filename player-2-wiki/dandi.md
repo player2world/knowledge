@@ -1,6 +1,6 @@
 # Dandi
 
-![Dandi the Farmer](../.gitbook/assets/character\_frame\_dandi.png)
+![](../.gitbook/assets/character\_frame\_dandi.png)
 
 #### Dandi the Farmer
 

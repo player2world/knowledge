@@ -1,6 +1,6 @@
 # Tamarind
 
-![Tamarind the Trader](../.gitbook/assets/character\_frame\_tamarind.png)
+![](../.gitbook/assets/character\_frame\_tamarind.png)
 
 #### Tamarind the Trader
 

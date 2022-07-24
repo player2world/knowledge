@@ -1,6 +1,6 @@
 # Baatar
 
-![Baatar the Bargain Hunter](../.gitbook/assets/character\_frame\_baatar.png)
+![](../.gitbook/assets/character\_frame\_baatar.png)
 
 #### Baatar the Bargain Hunter
 

@@ -1,6 +1,6 @@
 # Aljunied
 
-![Aljunied the Accumulator](../.gitbook/assets/character\_frame\_aljunied.png)
+![](../.gitbook/assets/character\_frame\_aljunied.png)
 
 #### Aljunied the Accumulator
 
