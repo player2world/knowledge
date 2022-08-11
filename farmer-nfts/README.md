@@ -1,5 +1,5 @@
 ---
-description: Minting Soon
+description: Mint is live!
 ---
 
 # Farmer NFTs
@@ -21,8 +21,7 @@ A: We'll be releasing our Genesis Series that will feature our first two farmers
 
 Q: How much will it cost?
 
-A: Between 10-20 USDC. The amount will be confirmed closer to the mint date. \
-They are priced affordably for accessibility.
+A: Between 10-20 USDC. It is a ladder mint where prices will go up by 0.2 USDC every 200 Farmers minted. They are priced affordably for accessibility.
 
 Q: I don't like my NFT. Can I get a refund?
 
@@ -34,18 +33,10 @@ A: The secret is: **Don't be greedy.** Unlike other projects, we don't spend the
 
 Q: There must be a trick. Your game is going to take a year to launch!
 
-A: No it's actually almost done. We've been building in stealth for 9 months and the game should be out \~2 months after our mint.
+A: No it's actually almost done. We've been building in stealth since 2021 and the game should be out \~2 months after our mint.
 
 Q: Ok I'm convinced. How do I purchase one of these "NFTs"?
 
-A: Get on our whitelist. Each whitelist spot grants you 2 mints.\
-Here are 5 ways: \
-1\) Invest in our Bitcoin Accumulator product\
-2\) Pass our Knowledge Quiz\
-3\) Have genuine conversations in our server - our Sophie AI will be shortlisting Players\
-4\) Win spots on other Solana DAOs\
-5\) Participate in our Twitter giveaways.
+A: Head over to https://player2.world and click on "Mint".\
+Enable audio to listen to our original game soundtrack, and enjoy the experience!
 
-Q: Wen mint?
-
-A: Soon ser. Likely end July / early August.
