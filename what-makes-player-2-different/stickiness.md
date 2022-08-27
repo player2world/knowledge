@@ -10,8 +10,6 @@ We’re going to provide all of the basic DeFi infrastructure (and more) on one 
 
 Everything you need, in one world. And this isn’t JUST a convenience factor, it allows for SYNERGY like you’ve never seen before.
 
-[#WAP](https://twitter.com/hashtag/WAP?src=hashtag\_click)
-
 **Bonus:** Think of the tech companies that made it big.&#x20;
 
 Many of them today provide a whole ecosystem of products under one roof. This is again, convenience and synergy.&#x20;
