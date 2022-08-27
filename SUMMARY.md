@@ -15,6 +15,7 @@
   * [Stickiness](what-makes-player-2-different/stickiness.md)
   * [Collateral](what-makes-player-2-different/collateral.md)
   * [Products](what-makes-player-2-different/products.md)
+  * [Alignment](what-makes-player-2-different/alignment.md)
 * [Player Oath](player-oath.md)
 * [The Deo](the-deo/README.md)
   * [Pre-earn DEOs](the-deo/pre-earn-deos/README.md)
