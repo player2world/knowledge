@@ -28,5 +28,3 @@ Hold projects to a higher standard. You HAVE the power: Vote with your wallets. 
 
 Oh, and if you're into whitepapers... here's ours:\
 [Token Accumulators: A Protocol that Systematically Captures Market Inefficiencies](../press-kit/white-papers.md)
-
-[#WAP](https://twitter.com/hashtag/WAP?src=hashtag\_click) [#valuemeta](https://twitter.com/hashtag/valuemeta?src=hashtag\_click) [#buyproductsnotpromises](https://twitter.com/hashtag/buyproductsnotpromises?src=hashtag\_click)
