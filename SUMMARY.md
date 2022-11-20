@@ -21,6 +21,7 @@
   * [Pre-earn DEOs](the-deo/pre-earn-deos/README.md)
     * [100-day Challenge](the-deo/pre-earn-deos/100-day-challenge.md)
 * [The Bitcoin Accumulator](the-bitcoin-accumulator/README.md)
+  * [Introduction](the-bitcoin-accumulator/introduction.md)
   * [Explainer Video](the-bitcoin-accumulator/explainer-video.md)
   * [Bitcoin Accumulator Tokens](the-bitcoin-accumulator/bitcoin-accumulator-tokens.md)
   * [Making Money](the-bitcoin-accumulator/making-money.md)

@@ -1,15 +1,23 @@
 # The Bitcoin Accumulator
 
-#### Claim to Fame
+#### Please note that the Bitcoin Accumulator has been deprecated as of 15 November 2022 due to the collapse of Sollet BTC.
 
-The Bitcoin Accumulator is the first DeFi 2.1 protocol.&#x20;
+<div>
 
-#### What it does
+<figure><img src="../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page1.png" alt=""><figcaption></figcaption></figure>
 
-The protocol helps users accumulate $BTC automatically.
+ 
 
-#### How?
+<figure><img src="../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page2.png" alt=""><figcaption></figcaption></figure>
 
-It captures market inefficiencies between the pricing of Bitcoin ($BTC) and Wrapped Bitcoin ($wrBTC), then shares these profits with its Bitcoin Accumulator token ($BTCA) holders.
+ 
 
-![](<../.gitbook/assets/BITCOIN ACCUMULATOR copy.png>)
+<figure><img src="../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+####
+
+
+
+####
