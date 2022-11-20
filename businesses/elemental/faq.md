@@ -38,7 +38,7 @@ A: Our funds will still produce yield, albeit smaller. Since our funds also comp
 
 **Q: Can I lose my deposit?**
 
-A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own funds, our compound funds, and the buffer funds which also acts as an insurance fund. The buffer pool will only engage in native Solana staking, and remain uninvested and fully liquid for USDC.
+A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own main funds, our compound funds, and the buffer funds which also acts as an insurance fund. The buffer pool will only invest its $SOL in native Solana staking, and its $USDC will remain uninvested and fully liquid. This ensures the buffer pool is not taking on **any** external protocol risk.
 
 **Q: What's in it for you?**
 
