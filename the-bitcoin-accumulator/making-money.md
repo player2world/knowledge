@@ -14,7 +14,7 @@ Take for example that bonds are currently priced at 1.2 $BTC. If a Player purcha
 
 Since the 1.0 $wrBTC is backed by 1.0 $BTC, there is an excess of 0.2 $BTC. This 0.2 $BTC is the profit the protocol makes from the bond purchase.
 
-![](../../.gitbook/assets/Hunter\_Idle\_FullAnimation.gif)
+![](../.gitbook/assets/Hunter\_Idle\_FullAnimation.gif)
 
 #### If $wrBTC trades below BTC, the protocol profits by buying $wrBTC.
 
@@ -38,4 +38,4 @@ When the protocol makes a profit, it shares the profit between the Players holdi
 
 ## Additional Reading
 
-Please read our [Token Accumulators Whitepaper](../../press-kit/white-papers.md) for more on the profit mechanics and the math behind the index growth.&#x20;
+Please read our [Token Accumulators Whitepaper](../press-kit/white-papers.md) for more on the profit mechanics and the math behind the index growth.&#x20;

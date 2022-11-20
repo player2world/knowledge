@@ -34,7 +34,11 @@ A: Yes. All investments carry risk. The protocols we invest in may get hacked, s
 
 **Q: What happens if you lose money?**
 
-A: Our funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer pool which we expect to grow over time. This buffer pool also acts as insurance fund. The buffer pool will only engage in native Solana staking, and remain uninvested and fully liquid for USDC.
+A: Our funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer pool which we are looking to grow over time.
+
+**Q: Can I lose my deposit?**
+
+A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own funds, our compound funds, and the buffer funds which also acts as an insurance fund. The buffer pool will only engage in native Solana staking, and remain uninvested and fully liquid for USDC.
 
 **Q: What's in it for you?**
 

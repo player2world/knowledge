@@ -8,15 +8,15 @@ More details are in our official statement below.
 
 <div>
 
-<figure><img src="../../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/22_11_15_bitcoin_accumulator_closure_page3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

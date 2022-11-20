@@ -12,4 +12,4 @@ The protocol helps users accumulate $BTC automatically.
 
 It captures market inefficiencies between the pricing of Bitcoin ($BTC) and Wrapped Bitcoin ($wrBTC), then shares these profits with its Bitcoin Accumulator token ($BTCA) holders.
 
-![](<../../.gitbook/assets/BITCOIN ACCUMULATOR copy.png>)
+![](<../.gitbook/assets/BITCOIN ACCUMULATOR copy.png>)
