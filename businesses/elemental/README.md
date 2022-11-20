@@ -6,7 +6,7 @@ description: Passive income made simple
 
 Elemental DeFi is the **first fixed-yield fund on Solana**.
 
-It is an actively managed fund that captures yield 100% from Solana DeFi; this means it is 100% on-chain, and 100% transparent. It features two funds: A $SOL based fund (Aqueous) and a $USDC based fund (Granite).
+It is an actively managed fund that captures yield purely from Solana DeFi; this means it operates 100% on-chain, and is 100% transparent. It features two funds: A $SOL based fund (Aqueous) and a $USDC based fund (Granite).
 
 ## Aqueous Fund (28% APR)
 
