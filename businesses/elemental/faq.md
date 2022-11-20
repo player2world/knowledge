@@ -46,4 +46,4 @@ After paying the yields, Player 2 sales tax, adding to the buffer pool, and rein
 
 **Q: I'm convinced! How do I get in?**
 
-A: Purchase a Farmer NFT, get verified, and drop us a note on Discord. In the future we will be releasing our own Elemental NFTs that will serve as your access pass.
+A: Purchase a Farmer NFT, get verified, and drop us a note in our #elemental channel on Discord. In the future, we will be releasing our own Elemental NFTs that will serve as your access pass.
