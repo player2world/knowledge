@@ -2,7 +2,7 @@
 
 The Bitcoin Accumulator features four tokens:
 
-![](<../.gitbook/assets/different tokens.PNG>)
+![](<../../.gitbook/assets/different tokens.PNG>)
 
 ### **Wrapped Bitcoin ($wrBTC)**&#x20;
 

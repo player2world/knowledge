@@ -12,5 +12,5 @@ So what does this mean for you?&#x20;
 
 Pre-earn DEOs by being part of our community! We host weekly social events, Twitter raids, engagement contests, and more. We have earmarked a good chunk of DEOs to be given to our Player 2 community.
 
-We will track your DEOs on a public dashboard as we go:\
+We will track your pre-earned DEOs on a public dashboard as we progress:\
 [https://leaderboard.player2.world/](https://leaderboard.player2.world/)
