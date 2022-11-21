@@ -1,4 +1,4 @@
-# Contact Details
+# Contact Us
 
 You may contact Elemental via their dedicated #elemental channel on our Player 2 discord, or tweet them at @elementaldefi.
 
