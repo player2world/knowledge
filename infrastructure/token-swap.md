@@ -1,4 +1,4 @@
-# Swapping Tokens
+# Token Swap
 
 Looking to swap your tokens? Tamarind is your girl!&#x20;
 

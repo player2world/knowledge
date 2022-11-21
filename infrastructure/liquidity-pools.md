@@ -1,4 +1,4 @@
-# Adding to Liquidity Pools
+# Liquidity Pools
 
 Want to earn fees by providing liquidity? Look for PC-07!
 
