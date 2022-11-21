@@ -1,5 +1,9 @@
 # Baatar
 
+#### Baatar was part of the Bitcoin Accumulator and has been deprecated.
+
+Read more: [the-bitcoin-accumulator](../the-bitcoin-accumulator/ "mention")
+
 ![](../.gitbook/assets/character\_frame\_baatar.png)
 
 #### Baatar the Bargain Hunter
