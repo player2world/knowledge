@@ -26,7 +26,7 @@
     * [Elemental Epoch](businesses/elemental/elemental-epoch.md)
     * [FAQ](businesses/elemental/faq.md)
     * [Website Preview](businesses/elemental/website-preview.md)
-    * [Contact Details](businesses/elemental/contact-details.md)
+    * [Contact Us](businesses/elemental/contact-us.md)
   * [Liquidation-free Loans](businesses/liquidation-free-loans.md)
   * [The Bitcoin Accumulator](the-bitcoin-accumulator/README.md)
     * [Introduction](the-bitcoin-accumulator/introduction.md)
