@@ -4,7 +4,7 @@ description: A Sustainable Economy
 
 # Chapter 5
 
-![](../../.gitbook/assets/Tweet-Post5.png)
+![](../../../.gitbook/assets/Tweet-Post5.png)
 
 **99% of crypto projects do not have a sustainable economy.**
 

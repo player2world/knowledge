@@ -59,3 +59,5 @@ This is how the Deos will remain pegged while allowing for the expansion and con
 ## **The Perfect Money** <a href="#42ad" id="42ad"></a>
 
 Our design allows for three of the four characteristics to be fulfilled, but whether the Deo becomes widely accepted is something we have to work hard on. However, if it does, **the Deo will be perfect money**.
+
+#### _-- This is part 1 of The Deo story. Part 2 will be released in time. --_
