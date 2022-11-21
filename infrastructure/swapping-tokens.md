@@ -1,4 +1,4 @@
-# Where do I swap tokens?
+# Swapping Tokens
 
 Looking to swap your tokens? Tamarind is your girl!&#x20;
 
@@ -6,6 +6,6 @@ Looking to swap your tokens? Tamarind is your girl!&#x20;
 
 2\) Look for Tamarind on the top right.
 
-![](../../../.gitbook/assets/Trader\_Idle\_Loop.gif)
+![](../.gitbook/assets/Trader\_Idle\_Loop.gif)
 
 3\) Swap your favorite tokens! Tamarind might even give you some soup 😉
