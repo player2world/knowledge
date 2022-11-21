@@ -44,6 +44,14 @@
       * [Purchasing wrBTC Bonds](the-bitcoin-accumulator/useful-infographics/purchasing-wrbtc-bonds.md)
       * [Upgrading to BTCA](the-bitcoin-accumulator/useful-infographics/upgrading-to-btca.md)
     * [Token Addresses](the-bitcoin-accumulator/token-addresses.md)
+    * [FAQ](businesses/the-bitcoin-accumulator/faq/README.md)
+      * [What is the Bitcoin Accumulator?](businesses/the-bitcoin-accumulator/faq/what-is-the-bitcoin-accumulator.md)
+      * [How do I get started on the Bitcoin Accumulator?](businesses/the-bitcoin-accumulator/faq/how-do-i-get-started-on-the-bitcoin-accumulator.md)
+      * [What is DeFI 2.1?](businesses/the-bitcoin-accumulator/faq/what-is-defi-2.1.md)
+      * [New to Solana?](businesses/the-bitcoin-accumulator/faq/new-to-solana.md)
+      * [Where do I swap tokens?](businesses/the-bitcoin-accumulator/faq/where-do-i-swap-tokens.md)
+      * [What are the Player 2 channel Rules?](businesses/the-bitcoin-accumulator/faq/what-are-the-player-2-channel-rules.md)
+* [Infrastructure](infrastructure.md)
 * [Player 2 Wiki](player-2-wiki/README.md)
   * [Aljunied](player-2-wiki/aljunied.md)
   * [Baatar](player-2-wiki/baatar.md)
@@ -52,13 +60,6 @@
   * [PC-07](player-2-wiki/pc-07.md)
   * [Tamarind](player-2-wiki/tamarind.md)
   * [Winterrose](player-2-wiki/winterrose.md)
-* [FAQ](faq/README.md)
-  * [What is the Bitcoin Accumulator?](faq/what-is-the-bitcoin-accumulator.md)
-  * [How do I get started on the Bitcoin Accumulator?](faq/how-do-i-get-started-on-the-bitcoin-accumulator.md)
-  * [What is DeFI 2.1?](faq/what-is-defi-2.1.md)
-  * [New to Solana?](faq/new-to-solana.md)
-  * [Where do I swap tokens?](faq/where-do-i-swap-tokens.md)
-  * [What are the Player 2 channel Rules?](faq/what-are-the-player-2-channel-rules.md)
 
 ## Press Kit
 
