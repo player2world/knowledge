@@ -4,7 +4,7 @@ description: Eliminating Discord Grinding
 
 # Chapter 3
 
-![](<../../../.gitbook/assets/Tweet-Post3 (1).png>)
+![](<../../.gitbook/assets/Tweet-Post3 (1).png>)
 
 _Gaining publicity is necessary, but why make users grind on Discord to get the key?_
 

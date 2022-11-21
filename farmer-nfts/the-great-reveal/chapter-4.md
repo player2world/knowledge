@@ -4,7 +4,7 @@ description: Introducing Player 2
 
 # Chapter 4
 
-![](<../../../.gitbook/assets/Tweet-Post4 (1).png>)
+![](<../../.gitbook/assets/Tweet-Post4 (1).png>)
 
 We’ve explained some of our goals and philosophies but we’ve yet to actually introduce what Player 2 is.
 
