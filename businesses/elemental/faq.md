@@ -14,7 +14,7 @@ A: We maintain a buffer pool. While the yields we earn fluctuate, the buffer poo
 
 **Q: Elemental Epoch?**
 
-A: We have our own epoch duration of 5 days. Please refer to the previous pages for the schedule.
+A: We have our own epoch duration of 5 days. View schedule: [elemental-epoch.md](elemental-epoch.md "mention")
 
 **Q: When can I deposit?**
 
