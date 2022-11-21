@@ -8,7 +8,7 @@ Looking to mint our Farmer NFTs? You've come to the right place! Here's the FAQ.
 
 Q: What is it?
 
-A: A utility NFT for our Player 2 world. It will act as an access pass to our game. It can be upgraded, and it will allow you to farm our many tokens.
+A: A utility NFT for our Player 2 world. It will act as an access pass to Future Farms. It can be upgraded, and it will allow you to farm our many tokens.
 
 Q: Why should I care?
 
@@ -25,15 +25,11 @@ A: Between 10-20 USDC. It is a ladder mint where prices will go up by 0.2 USDC e
 
 Q: I don't like my NFT. Can I get a refund?
 
-A: Good joke. But yes you can. We did say all our tokens are collateralized - we weren't kidding. Once our game launches, there will be an in-game feature to burn your NFT.
+A: Good joke. But yes you can. We did say all our tokens are collateralized - we weren't kidding. Once Future Farm launches, there will be an in-game feature to burn your NFT.
 
 Q: What's the secret?
 
 A: The secret is: **Don't be greedy.** Unlike other projects, we don't spend the mint funds - those go straight into our reserve that will be used to honor the burns. Additionally, as the game grows, so does the reserve and this is how Players all win together.
-
-Q: There must be a trick. Your game is going to take a year to launch!
-
-A: No it's actually almost done. We've been building in stealth since 2021 and the game should be out \~2 months after our mint.
 
 Q: Ok I'm convinced. How do I purchase one of these "NFTs"?
 
