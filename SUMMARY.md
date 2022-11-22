@@ -17,7 +17,7 @@
     * [FAQ](businesses/elemental/faq.md)
     * [Website Preview](businesses/elemental/website-preview.md)
     * [Contact Us](businesses/elemental/contact-details.md)
-  * [Liquidation-free Loans](businesses/liquidation-free-loans/README.md)
+  * [Liquidation-free Loans](businesses/liquidation-free-loans.md)
     * [Terms](businesses/liquidation-free-loans/terms.md)
   * [Future Farms](businesses/future-farms/README.md)
     * [Farmer NFTs](farmer-nfts/README.md)

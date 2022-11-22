@@ -16,6 +16,8 @@
 
 \[7] As a courtesy, we will send you a reminder on Discord a week prior to your deadline.
 
+\[8] We will only track rarity. This means you may receive back a different NFT. If there is a special NFT you love and want to keep, **do not use them for your loan**.
+
 ## Examples
 
 1 x NFT, 1 month option -> You will receive 8 USDC for the loan, and have to pay back 8.08 USDC within 1 month to get back your NFT.&#x20;
