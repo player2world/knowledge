@@ -10,7 +10,7 @@ A: Since we derive yields outside of Elemental, they are sustainable so long as 
 
 **Q: How are you able to give a fixed yield then?**
 
-A: We maintain a buffer pool. While the yields we earn fluctuate, the buffer pool will absorb the volatility. While the yield is fixed for the current Elemental Epoch, the yield may be adjusted over longer periods of time. We endeavor to make adjustments as infrequent as possible.
+A: We maintain a buffer pool. As we expect our revenue will fluctuate, we created the buffer pool to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
 
 **Q: Elemental Epoch?**
 
