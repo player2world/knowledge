@@ -2,6 +2,8 @@
 
 Elemental uses its own custom epoch and it runs for 5 days. Below are the epoch start/end dates. Epochs begin/end at 0000h UTC.
 
+## Epoch Schedule
+
 20 Nov 2022
 
 25 Nov 2022
