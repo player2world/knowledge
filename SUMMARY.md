@@ -20,7 +20,7 @@
   * [Liquidation-free Loans](businesses/liquidation-free-loans.md)
     * [Terms](businesses/liquidation-free-loans/terms.md)
   * [Future Farms](businesses/future-farms/README.md)
-    * [Farmer NFTs](farmer-nfts/README.md)
+    * [Farmer NFTs FAQ](businesses/future-farms/farmer-nfts-faq.md)
     * [The Great Reveal](farmer-nfts/the-great-reveal/README.md)
       * [Chapter 1](farmer-nfts/the-great-reveal/chapter-1.md)
       * [Chapter 2](farmer-nfts/the-great-reveal/chapter-2.md)
