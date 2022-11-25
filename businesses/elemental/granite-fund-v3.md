@@ -4,4 +4,4 @@ Grey = Confirmed
 
 Purple = Example Data
 
-<figure><img src="../../.gitbook/assets/brave_lmNArZRRwQ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/brave_HcaYzJBsqu.png" alt=""><figcaption></figcaption></figure>
