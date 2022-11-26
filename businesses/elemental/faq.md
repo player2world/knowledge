@@ -2,7 +2,7 @@
 
 **Q: Where do the yields come from?**
 
-A: From DeFi protocols across Solana. The Solana ecosystem is vast, and there are many yield opportunities. They are however in a constant flux, hold different risk profiles, and require close monitoring.
+A: From DeFi protocols across Solana. The Solana ecosystem is vast, and there are many yield and arbitrage opportunities. They are however in a constant flux, hold different risk profiles, and require close monitoring.
 
 **Q: Are the yields sustainable?**
 
