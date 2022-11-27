@@ -14,4 +14,4 @@ Granite is a ubiquitous stone found in bedrock, and this fund aims to be the bed
 
 _Key Risk: Stablecoins devaluing._
 
-<figure><img src="../../.gitbook/assets/brave_HcaYzJBsqu.png" alt=""><figcaption><p>Grey = Confirmed | Purple = Example Data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/brave_isRhjPQC5p.png" alt=""><figcaption><p>Grey = Confirmed | Purple = Example Data</p></figcaption></figure>

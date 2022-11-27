@@ -8,3 +8,4 @@ description: >-
 
 <figure><img src="../.gitbook/assets/liquidation_free_loans_slide.jpg" alt=""><figcaption></figcaption></figure>
 
+Our Liquidation-free Loans officially went live on 8 Nov 2022.
