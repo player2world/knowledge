@@ -10,3 +10,5 @@ You may contact Elemental via their dedicated #elemental channel on the Player 2
 
 Official Twitter:\
 [https://twitter.com/elementaldefi](https://twitter.com/elementaldefi)
+
+<figure><img src="../../.gitbook/assets/logo_default.png" alt=""><figcaption><p>Elemental DeFi Official Logo</p></figcaption></figure>

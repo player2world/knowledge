@@ -54,6 +54,5 @@ We encourage users to take extra time to understand the nature of each fund and 
 
 Balance in all things.
 
+<figure><img src="../../.gitbook/assets/elemental_definition.png" alt=""><figcaption><p>Elemental Definition</p></figcaption></figure>
 
-
-<figure><img src="../../.gitbook/assets/logo_default.png" alt=""><figcaption><p>Elemental DeFi Logo</p></figcaption></figure>
