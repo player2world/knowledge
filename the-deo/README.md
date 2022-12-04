@@ -2,7 +2,7 @@
 description: Introducing Player 2’s Primary Currency
 ---
 
-# The Deo
+# The Deo: Part 1
 
 ## **What is it?** <a href="#2a2d" id="2a2d"></a>
 
