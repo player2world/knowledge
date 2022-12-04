@@ -1,6 +1,8 @@
 # IDO and the Path Forward
 
-Greetings Players,
+Audio recording avaialble here: [https://twitter.com/i/spaces/1OwxWwDnOlNxQ](https://twitter.com/i/spaces/1OwxWwDnOlNxQ)
+
+## Greetings Players,
 
 2022 has been a rough year for crypto. The market saw a steady decline with two large "black swan" events (Terra and FTX) nuking the already depressed sentiments and destroying billions of collective wealth in the process.
 
@@ -54,11 +56,7 @@ Why buy? Why hold?
 
 You can use them to get a loan, sure. But that is NOT the main point.&#x20;
 
-I find it hilarious that some people buy a Farmer then ask: "What is the utility?"&#x20;
-
-Really? You bought something and you don't what it is? Then why did you buy to begin with? CLEARLY all you care about is flipping. And sorry, I'm not interested in these folks because they are not going to appreciate what we've worked so hard to build. These are gamblers - once they see their bags go up a little, they're gone like the wind.
-
-But to those of you who are actually looking to stay. Understand this, the **main point** the Farmers is you are indirectly **buying 100 $DEOs**. Everything else are minor perks but **largely irrelevant**.
+The **main point** of the Farmers is you are indirectly **buying 100 $DEOs**. Everything else are minor perks but **largely irrelevant**.
 
 The question you need to ask yourself is this: **Do you think that 100 DEOs is worth holding onto?**&#x20;
 
