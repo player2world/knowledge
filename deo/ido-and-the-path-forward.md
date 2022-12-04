@@ -1,6 +1,6 @@
 # IDO and the Path Forward
 
-Audio recording avaialble here: [https://twitter.com/i/spaces/1OwxWwDnOlNxQ](https://twitter.com/i/spaces/1OwxWwDnOlNxQ)
+Audio recording available here: [https://twitter.com/i/spaces/1OwxWwDnOlNxQ](https://twitter.com/i/spaces/1OwxWwDnOlNxQ)
 
 ## Greetings Players,
 
