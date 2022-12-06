@@ -14,6 +14,7 @@
 * [Businesses](businesses/README.md)
   * [Elemental](businesses/elemental/README.md)
     * [About Us](businesses/elemental/about-us.md)
+    * [Tidal Fund V3](businesses/elemental/tidal-fund-v3.md)
     * [Aqueous Fund V3](businesses/elemental/aqueous-fund-v3.md)
     * [Granite Fund V3](businesses/elemental/granite-fund-v3.md)
     * [FAQ](businesses/elemental/faq.md)

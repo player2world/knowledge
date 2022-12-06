@@ -13,5 +13,3 @@ It invests in various opportunities across the Solana ecosystem, with the overal
 Like a stream of water, this fund offers a constant stream of income. But also like water, the USD notional value of your income will ebb and flow since Aqueous pays in $SOL.
 
 _Key Risk: Protocols getting hacked._
-
-<figure><img src="../../.gitbook/assets/brave_1LBRKuzZ07.png" alt=""><figcaption><p>Grey = Confirmed | Purple = Example Data</p></figcaption></figure>
