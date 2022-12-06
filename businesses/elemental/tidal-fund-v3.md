@@ -6,7 +6,7 @@ description: Fixed-yield $SOL Fund
 
 ## Tidal Fund (15% APR)
 
-The Tidal Fund is Elemental's first publicly accessible fund.
+The Tidal Fund is Elemental's first publicly accessible fund. Unlike the gated funds, Tidal will have a large deposit capacity, allowing many to participate.
 
 It invests in various opportunities across the Solana ecosystem, with the overall fund maintaining low-medium risk.
 
