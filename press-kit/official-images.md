@@ -10,6 +10,6 @@
 
 <figure><img src="../.gitbook/assets/collection_p2_farmers_genesis_series.png" alt=""><figcaption><p>P2 Farmers Genesis Series</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/dandi_NFT.png" alt=""><figcaption><p>Dandi</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dandi_nft.png" alt=""><figcaption><p>Dandi</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/nettly_NFT.png" alt=""><figcaption><p>Nettly</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/nettly_nft.png" alt=""><figcaption><p>Nettly</p></figcaption></figure>
