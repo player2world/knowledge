@@ -66,6 +66,6 @@
 
 ## Press Kit
 
-* [Official Logos](press-kit/official-logos.md)
+* [Official Images](press-kit/official-images.md)
 * [Brand Guide](press-kit/brand-guide.md)
 * [White Papers](press-kit/white-papers.md)
