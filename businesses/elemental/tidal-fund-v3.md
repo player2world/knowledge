@@ -4,7 +4,9 @@ description: Fixed-yield $SOL Fund
 
 # Tidal Fund V3
 
-## Tidal Fund (15% APR)
+## _Coming soon_
+
+## Tidal Fund (APR TBA)
 
 The Tidal Fund is Elemental's first publicly accessible fund. Unlike the gated funds, Tidal will have a large deposit capacity, allowing many to participate.
 
