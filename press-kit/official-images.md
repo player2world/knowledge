@@ -1,6 +1,8 @@
 # Official Images
 
-![P2 Logo](../.gitbook/assets/logo\_P2\_black.png)
+![P2 Logo Default](../.gitbook/assets/logo\_P2\_black.png)
+
+<figure><img src="../.gitbook/assets/logo_p2_white.png" alt=""><figcaption><p>P2 Logo White</p></figcaption></figure>
 
 ![Player 2 Logo](../.gitbook/assets/banner\_P2.png)
 
