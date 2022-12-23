@@ -10,7 +10,7 @@ A: Since we derive yields outside of Elemental, they are sustainable so long as 
 
 **Q: How are you able to give a fixed yield then?**
 
-A: We maintain a buffer pool. As we expect our revenue will fluctuate, we created the buffer pool to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
+A: We maintain a buffer fund. As we expect our revenue will fluctuate, we created the buffer fund to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
 
 **Q: Elemental Epoch?**
 
@@ -34,15 +34,15 @@ A: Yes. All investments carry risk. The protocols we invest in may get hacked, s
 
 **Q: What happens if you lose money?**
 
-A: Our funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer pool which we are looking to grow over time.
+A: Our funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer fund which we are looking to grow over time.
 
 **Q: Can I lose my deposit?**
 
-A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own main funds, our compound funds, and our buffer pool. The buffer pool will also act as an insurance fund; it will only invest its $SOL in native staking, and its $USDC will remain uninvested. This ensures the buffer pool does not take on **any** external protocol risk.
+A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own main funds, our compound funds, and our buffer fund. The buffer fund will also act as an insurance fund; it will only invest its $SOL in native staking, and its $USDC will remain uninvested. This ensures the buffer fund does not take on **any** external protocol risk.
 
 **Q: What's in it for you?**
 
-After paying the yields, Player 2 sales tax, adding to the buffer pool, and reinvesting some for compound growth, we keep the remaining profits for ourselves.
+After paying the yields, Player 2 sales tax, adding to the buffer fund, and reinvesting some for compound growth, we keep the remaining profits for ourselves.
 
 **Q: I'm convinced! How do I get in?**
 
