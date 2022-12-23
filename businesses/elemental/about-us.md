@@ -12,7 +12,7 @@ Elemental becomes the first fund on Solana to allow a fixed-yield return. While 
 
 #### **V2: Launched 02 Oct 2022**
 
-The V2 system introduced the compound and insurance funds. These additions meant Elemental can steadily grow its yield over time, and provide users some recovery value in the face of adversity.
+The V2 system coincided with the launch of our first $USDC fund and introduced the concept of a compound and insurance fund. The compound fund allows for Elemental to steadily grow its yield over time, and the insurance fund provides users some recovery value in the face of adversity.
 
 #### V1: Launched 09 Sep 2022
 
