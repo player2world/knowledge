@@ -10,7 +10,7 @@ A: Since we derive yields outside of Elemental, they are sustainable so long as 
 
 **Q: How are you able to give a fixed yield then?**
 
-A: We maintain a buffer fund. As we expect our revenue will fluctuate, we created the buffer fund to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
+A: We maintain a buffer fund. As we expect our revenue to fluctuate, we created the buffer fund to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
 
 **Q: Elemental Epoch?**
 
@@ -18,11 +18,11 @@ A: We have our own epoch duration of 5 days. View schedule: [elemental-epoch.md]
 
 **Q: When can I deposit?**
 
-A: If the fund is not at maximum capacity, you may deposit anytime. Your funds will be activated in the next epoch.
+A: You may deposit anytime so long as the fund has available capacity. Note that your funds will be activated at the start of the next epoch.
 
 **Q: When can I withdraw?**
 
-A: You may initiate a withdrawal anytime. But your funds will need to complete an entire epoch after you initiate your withdrawal. For example, if you initiate a withdrawal on 4 Dec, you will need to wait for the full epoch (5 Dec - 10 Dec) to complete; your funds will be available on 10 Dec. This delay is necessary for us to wind down more complex positions that may require many days.
+A: You may initiate a withdrawal anytime. However, your funds will need to complete a full Elemental Epoch after your initiation request. For example, if you initiate a withdrawal on 4 Dec, you will need to wait for the full epoch (5 Dec - 10 Dec) to complete; your funds will be available on 10 Dec. This delay is necessary for us to wind down more complex positions that may require many days.
 
 **Q: Is Elemental's yield expected to drop over the long run?**
 
@@ -34,11 +34,11 @@ A: Yes. All investments carry risk. The protocols we invest in may get hacked, s
 
 **Q: What happens if you lose money?**
 
-A: Our funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer fund which we are looking to grow over time.
+A: Our funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer fund which is growing steadily.
 
 **Q: Can I lose my deposit?**
 
-A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own main funds, our compound funds, and our buffer fund. The buffer fund will also act as an insurance fund; it will only invest its $SOL in native staking, and its $USDC will remain uninvested. This ensures the buffer fund does not take on **any** external protocol risk.
+A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own main fund, our compound fund, and our buffer fund. The buffer fund will also act as an insurance fund; it will only invest its $SOL in native staking, and its $USDC will remain uninvested. This ensures the buffer fund does not take on **any** external protocol risk.
 
 **Q: What's in it for you?**
 
