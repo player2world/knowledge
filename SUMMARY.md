@@ -8,6 +8,7 @@
   * [Alignment](what-makes-player-2-different/alignment.md)
 * [Player Oath](player-oath.md)
 * [Deo](deo/README.md)
+  * [IDO FAQ](deo/ido-faq.md)
   * [IDO and the Path Forward](deo/ido-and-the-path-forward.md)
   * [The Deo: Part 1](the-deo/README.md)
   * [Pre-earn DEOs](the-deo/pre-earn-deos/README.md)
