@@ -56,6 +56,7 @@
 * [Infrastructure](infrastructure/README.md)
   * [Token Swap](infrastructure/token-swap.md)
   * [Liquidity Pools](infrastructure/liquidity-pools.md)
+* [Discord Server](discord-server.md)
 * [Player 2 Wiki](player-2-wiki/README.md)
   * [Aljunied](player-2-wiki/aljunied.md)
   * [Baatar](player-2-wiki/baatar.md)
