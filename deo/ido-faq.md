@@ -16,7 +16,7 @@ You are correct. All IDO funds go into the Reserve. This is by design, and this 
 
 **What is the IDO timeline?**
 
-Deposits start at 11 Jan 2023, 00:00 UTC. We will keep the deposits open for 7 days and the DEO will officially start trading on 18 Jan 2023, 00:00 UTC.
+Deposits start at 12 Jan 2023, 00:00 UTC. We will keep the deposits open for 5 days and the DEO will officially start trading on 18 Jan 2023, 00:00 UTC.
 
 **Is there a lockup period?**
 
