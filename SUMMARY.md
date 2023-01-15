@@ -23,6 +23,8 @@
     * [Website Preview](businesses/elemental/website-preview.md)
   * [Liquidation-free Loans](businesses/liquidation-free-loans.md)
     * [Terms](businesses/liquidation-free-loans/terms.md)
+  * [Sophie AI](businesses/sophie-ai.md)
+  * [Community Chest](businesses/community-chest.md)
   * [Future Farms](businesses/future-farms/README.md)
     * [Farmer NFTs FAQ](businesses/future-farms/farmer-nfts-faq.md)
     * [The Great Reveal](farmer-nfts/the-great-reveal/README.md)
