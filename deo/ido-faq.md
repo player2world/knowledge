@@ -34,7 +34,7 @@ The IDO price will be 0.1 USDC
 
 **Where can I make my deposits?**
 
-We will be accepting deposits via [https://future-farms.player2.world](https://future-farms.player2.world). A new character will soon appear to receive your deposits!
+We will be accepting deposits via [https://future-farms.player2.world](https://future-farms.player2.world). Look for Aljunied - she's the one with the IDO sign floating above her head.
 
 **What if I don't have the P2IDO token?**
 
