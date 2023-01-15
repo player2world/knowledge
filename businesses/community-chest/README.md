@@ -19,5 +19,5 @@ The Community Chest is an investment fund controlled exclusively by the Player 2
 11. 5% of the profits shall be paid to Player 2 as taxes.
 12. In the event the Council wishes to dissolve the Community Chest fund, all assets are to be liquidated and deposited into the Player 2 Reserve, thereby benefitting the entire Player 2 community.
 
-<figure><img src="../.gitbook/assets/23_01_15_community_chest.png" alt=""><figcaption><p>Player 2 Community Chest</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23_01_15_community_chest.png" alt=""><figcaption><p>Player 2 Community Chest</p></figcaption></figure>
 
