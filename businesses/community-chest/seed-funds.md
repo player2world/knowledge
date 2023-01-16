@@ -8,3 +8,5 @@
 
 Temporary holding wallet until the council is formed, and multi-sig is created:\
 [https://solana.fm/address/GsGU9xfgJZ4o3Tb1kL8w6FPgntuVbyREbKEjkFZik44s?cluster=mainnet-qn1](https://solana.fm/address/GsGU9xfgJZ4o3Tb1kL8w6FPgntuVbyREbKEjkFZik44s?cluster=mainnet-qn1)
+
+What's next? That's for **you** the community to decide!
