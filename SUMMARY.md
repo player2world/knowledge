@@ -26,6 +26,7 @@
     * [Terms](businesses/liquidation-free-loans/terms.md)
   * [Sophie AI](businesses/sophie-ai.md)
   * [Community Chest](businesses/community-chest/README.md)
+    * [Seed Funds](businesses/community-chest/seed-funds.md)
     * [Auctions and Raffles](businesses/community-chest/auctions-and-raffles.md)
   * [Future Farms](businesses/future-farms/README.md)
     * [Farmer NFTs FAQ](businesses/future-farms/farmer-nfts-faq.md)
