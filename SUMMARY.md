@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Player 2](README.md)
+  * [tl;dr](player-2/tl-dr.md)
 * [What makes Player 2 different?](what-makes-player-2-different/README.md)
   * [Stickiness](what-makes-player-2-different/stickiness.md)
   * [Collateral](what-makes-player-2-different/collateral.md)
