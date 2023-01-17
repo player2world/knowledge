@@ -10,6 +10,10 @@
 
 ![Banner with Slogans](../.gitbook/assets/slogans\_animated.gif)
 
+<figure><img src="../.gitbook/assets/deo_logo.png" alt=""><figcaption><p>Deo Logo</p></figcaption></figure>
+
+
+
 <figure><img src="../.gitbook/assets/collection_p2_farmers_genesis_series.png" alt=""><figcaption><p>P2 Farmers Genesis Series</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/dandi_nft.png" alt=""><figcaption><p>Dandi</p></figcaption></figure>
