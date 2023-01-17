@@ -22,7 +22,7 @@ A: You may deposit anytime so long as the fund has available capacity. Note that
 
 **Q: When can I withdraw?**
 
-A: You may initiate a withdrawal anytime. However, your funds will need to complete a full Elemental Epoch after your initiation request. For example, if you initiate a withdrawal on 4 Dec, you will need to wait for the full epoch (5 Dec - 10 Dec) to complete; your funds will be available on 10 Dec. This delay is necessary for us to wind down more complex positions that may require many days.
+A: You may initiate a withdrawal anytime. However, your funds will need to complete a full [Elemental Epoch](elemental-epoch.md) after your initiation request. For example, if you initiate a withdrawal on 4 Dec, you will need to wait for the full epoch (5 Dec - 10 Dec) to complete; your funds will be available on 10 Dec. This delay is necessary for us to wind down more complex positions that may require many days.
 
 **Q: Is Elemental's yield expected to drop over the long run?**
 
