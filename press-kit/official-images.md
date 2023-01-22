@@ -10,7 +10,7 @@
 
 ![Banner with Slogans](../.gitbook/assets/slogans\_animated.gif)
 
-<figure><img src="../.gitbook/assets/deo_logo.png" alt=""><figcaption><p>Deo Logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/logo_deo_default.png" alt=""><figcaption><p>Deo Logo</p></figcaption></figure>
 
 
 
