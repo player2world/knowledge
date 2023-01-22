@@ -1,5 +1,5 @@
 ---
-description: If you have allergy to reading. Here's the tl;dr of Player 2.
+description: If you an have allergy to reading. Here's the tl;dr of Player 2.
 ---
 
 # tl;dr
