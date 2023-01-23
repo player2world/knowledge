@@ -38,7 +38,7 @@ A: Our funds will still produce yield, albeit smaller. Since our funds also comp
 
 **Q: Can I lose my deposit?**
 
-A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our own main fund, our compound fund, and our buffer fund. The buffer fund will also act as an insurance fund; it will only invest its $SOL in native staking, and its $USDC will remain uninvested. This ensures the buffer fund does not take on **any** external protocol risk.
+A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our buffer fund, compound fund, and mint fund. As buffer fund also acts as an insurance fund, to provide maximum safety, it will only invest its $SOL in native staking, and its $USDC will remain uninvested. This ensures the buffer fund does not take on **any** external protocol risk.
 
 **Q: What's in it for you?**
 
