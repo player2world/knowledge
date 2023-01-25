@@ -6,7 +6,7 @@ description: Fixed-yield $SOL Fund
 
 ## Aqueous Fund (28% APR)
 
-The Aqueous Fund is Elemental's flagship fund which produces fixed-yields in $SOL.
+The Aqueous Fund is Elemental's flagship fund which produces fixed-yields in $SOL. The fund auto-compounds a portion of its gains, thereby allowing it to grow its APR over time.
 
 It invests in various opportunities across the Solana ecosystem, with the overall fund maintaining medium risk.
 
