@@ -1,3 +1,7 @@
+---
+description: Fixed-yield $USDC Fund
+---
+
 # Loam Fund V3
 
 ## Loam Fund (7% APR)
