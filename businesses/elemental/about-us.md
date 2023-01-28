@@ -1,8 +1,10 @@
 # About Us
 
-Elemental DeFi is the **first fixed-yield fund on Solana**.
+Elemental DeFi helps you find the highest capital protected, risk-adjusted returns on Solana.
 
-It is an actively managed fund that generates returns primarily via yield farming and arbitrage opportunities. Elemental does this purely from Solana DeFi, operating transparently 100% on-chain.
+Our goal is to make passive income simple, so users only need to deposit, and Elemental takes care of the rest. We are an actively managed fund that generates returns primarily via yield farming and arbitrage opportunities. Elemental does this purely from Solana DeFi, operating transparently 100% on-chain.
+
+To keep things simple, Elemental offers **fixed yields; the first on Solana**. Also, unlike most protocols, our yields are **true yields**. Elemental does not have any hidden fees or costs. The yield number represents the true yield you will receive.
 
 ## History
 
