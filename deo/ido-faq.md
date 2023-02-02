@@ -32,14 +32,6 @@ Yes. Your DEO-USDC LP tokens will be locked up for a total of 60 days starting 1
 
 The IDO price will be 0.1 USDC
 
-**Where can I make my deposits?**
-
-We will be accepting deposits via [https://future-farms.player2.world](https://future-farms.player2.world). Look for Aljunied - she's the one with the IDO sign floating above her head.
-
-**What if I don't have the P2IDO token?**
-
-Buy some DEOs on the secondary market! The IDO is merely the start of the trading. You can buy in at any point after.
-
 **I have earned DEOs by participating in community events in 2022! When do I get my DEOs?**
 
 All pre-earned DEOs will follow the same unlocking schedule as the LP tokens.
