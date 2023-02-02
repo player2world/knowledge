@@ -71,6 +71,7 @@
   * [PC-07](player-2-wiki/pc-07.md)
   * [Tamarind](player-2-wiki/tamarind.md)
   * [Winterrose](player-2-wiki/winterrose.md)
+* [Articles](articles.md)
 
 ## Press Kit
 
