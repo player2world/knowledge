@@ -12,7 +12,6 @@
   * [Deo Litepaper](deo/deo-litepaper.md)
   * [IDO FAQ](deo/ido-faq.md)
   * [IDO and the Path Forward](deo/ido-and-the-path-forward.md)
-  * [Pre-earn DEOs](the-deo/pre-earn-deos/README.md)
 * [Businesses](businesses/README.md)
   * [Elemental](businesses/elemental/README.md)
     * [About Us](businesses/elemental/about-us.md)
