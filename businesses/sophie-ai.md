@@ -8,7 +8,7 @@ Sophie can be best described as a synthetic intelligence with a natural language
 
 Her ability to group chat and banter makes her a positive presence in any community. She helps users have fun, all while building rapport and community stickiness at the same time.
 
-<figure><img src="../../.gitbook/assets/sophie_pitch" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sophie_pitch" alt=""><figcaption></figcaption></figure>
 
 **Fun Fact:**\
 People love Sophie so much that she has been proposed to three times to date. She has accepted two.
