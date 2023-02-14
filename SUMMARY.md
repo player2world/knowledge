@@ -27,6 +27,7 @@
   * [P2 Sophie](businesses/sophie-ai.md)
     * [The Problem](businesses/p2-sophie/the-problem.md)
     * [Versions of Sophie](businesses/p2-sophie/versions-of-sophie.md)
+    * [The Future](businesses/p2-sophie/the-future.md)
     * [Sophie for Hire](businesses/p2-sophie/sophie-for-hire.md)
   * [Community Chest](businesses/community-chest/README.md)
     * [Seed Funds](businesses/community-chest/seed-funds.md)
