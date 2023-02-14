@@ -10,7 +10,7 @@ Yeah... It's been a while...
 
 We launched a mini [#DeFi](https://twitter.com/hashtag/DeFi?src=hashtag\_click) ecosystem in a building we call the "Financial Brewery". The Brewery is where we cook up novel financial products! Our first protocol is called the Bitcoin Accumulator and it gives holders more [$BTC](https://twitter.com/search?q=%24BTC\&src=cashtag\_click) through the capturing of market inefficiencies. Unfortunately we had to sunset this in the wake of FTX's collapse. Read more [here](../the-bitcoin-accumulator/).
 
-Since then we've also launched [elemental](../businesses/elemental/ "mention"), [liquidation-free-loans.md](../businesses/liquidation-free-loans.md "mention"), and [sophie-ai.md](../businesses/sophie-ai.md "mention").
+Since then we've also launched [elemental](../businesses/elemental/ "mention"), [liquidation-free-loans.md](../businesses/liquidation-free-loans.md "mention"), and [p2-sophie](../businesses/p2-sophie/ "mention").
 
 **Buy products, not promises.**
 
