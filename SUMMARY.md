@@ -21,7 +21,6 @@
     * [Loam Fund V3](businesses/elemental/loam-fund-v3.md)
     * [FAQ](businesses/elemental/faq.md)
     * [Elemental Epoch](businesses/elemental/elemental-epoch.md)
-    * [Website Preview](businesses/elemental/website-preview.md)
   * [Liquidation-free Loans](businesses/liquidation-free-loans.md)
     * [Terms](businesses/liquidation-free-loans/terms.md)
   * [P2 Sophie](businesses/sophie-ai.md)
