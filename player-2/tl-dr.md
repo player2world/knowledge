@@ -12,7 +12,7 @@ Player 2 helps you discover Solana through a gamifield world. It's where communi
 
 Our platform enables the launch of new projects, which we refer to as [businesses](../businesses/), in a unique and engaging way. Businesses are represented as Non-Player Characters (NPCs) or buildings in a our gamified world, providing a fun and immersive experience for users.
 
-These businesses should offer true value - products or services that people are willing to pay for. This contributes to the ecosystem by generating genuine revenue.
+These businesses should offer true value - products or services that people are willing to pay for. This contributes to the ecosystem by generating true revenue.
 
 ## 2) $DEO: A Token with Real Intrinsic Value
 
