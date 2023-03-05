@@ -1,5 +1,5 @@
 ---
-description: Still not short enough? Fine.
+description: Still not short enough? We gotchu fam.
 ---
 
 # tl;dr of the tl;dr
