@@ -24,13 +24,13 @@ It is common for projects to display large gains, only for users to find out tha
 
 We think that is disingenuous, and it only harms the users.
 
-At Elemental, our goal is to make things simple for users. Investing should be a two step process:&#x20;
+At Elemental, our goal is to make investing simple for users. All they have to do is:
 
-1\) Deposit.
+1\) Deposit
 
-2\) Earn.&#x20;
+2\) Earn
 
-We will take care of the rest.&#x20;
+And we will take care of the rest.&#x20;
 
 And our promise is that **our displayed yield** will always be **the true yield** you receive.
 
