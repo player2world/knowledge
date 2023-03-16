@@ -10,6 +10,7 @@
   * [Alignment](what-makes-player-2-different/alignment.md)
 * [Player Oath](player-oath.md)
 * [Deo](deo/README.md)
+  * [Official Deo Information](deo/official-deo-information.md)
   * [Deo Litepaper](deo/deo-litepaper.md)
   * [IDO FAQ](deo/ido-faq.md)
   * [IDO and the Path Forward](deo/ido-and-the-path-forward.md)
