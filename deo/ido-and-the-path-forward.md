@@ -42,7 +42,7 @@ We need to be **very** conscious about what we deploy. If something doesn't smel
 
 Given that we are in a bear market, and we'll likely be in one for at least a year, we'll focus on products that people would want to use in a prolonged bear market.
 
-Take for example [elemental](../businesses/elemental/ "mention"). Is it a product people would want to use in a bear? YES. Would MORE people want to use it if we opened it up further? YES. Do we make money from it? YES. Fantastic product.
+Take for example [manifesto.md](../businesses/elemental/manifesto.md "mention"). Is it a product people would want to use in a bear? YES. Would MORE people want to use it if we opened it up further? YES. Do we make money from it? YES. Fantastic product.
 
 Another one is [liquidation-free-loans.md](../businesses/liquidation-free-loans.md "mention"). Would people want to use in a bear? YES. Would new people buying our NFTs want to also use it? YES. Do we make money from it? YES. Fantastic product.
 

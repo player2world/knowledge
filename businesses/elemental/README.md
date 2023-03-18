@@ -1,58 +1,38 @@
 ---
-description: Passive income made simple
+description: Passive Income Made Simple
 ---
 
 # Elemental
 
-## Preface
+Elemental is an easy-to-use investment platform that gives users access to a range of actively managed funds operating across Solana DeFi. Our platform simplifies investing, allowing users to deposit funds and start earning passive income without any additional effort. With Elemental, users can select from a variety of funds, each with its own unique strategy, providing diversification and potentially higher returns. Whether you're a seasoned DeFi user or just starting out, Elemental makes investing easier for you.
 
-#### Elemental = Fundamental
+## History
 
-The word "elemental" refers to an essential constituent of a larger object. In other words, it refers to something fundamental.
+#### V4: Submitted to Solana's Grizzlython on 14 Mar 2023
 
-Our crypto industry has become highly complex, and oftentimes in a bad way. Many projects lack clarity of purpose, and the vast majority obfuscate their economic design as they know it to be unsustainable. This has given rise to the culture of punting as opposed to value investing. The only important indicator is the intensity of hype. Flippers win, long term holders lose.
+Elemental is evolving yet again! More details to come.
 
-But this is destructive to an industry that wants to grow and incorporate the masses. Not everyone wants to gamble.
+#### V3: Launched 20 Nov 2022
 
-This is why we named our fund Elemental; we wanted to focus on the fundamentals. We wanted to focus on **what truly matters; yield**. To be specific: Sustainable, long-term yield.
+Elemental becomes the first fund on Solana to allow a fixed-yield return. While the yields may be gradually adjusted over longer periods, they are fixed within each [Elemental Epoch](elemental-epoch.md) of 5 days. This is made possible by the introduction of a buffer fund which acts as a cushion to absorb volatility.
 
-#### Elemental = Simple
+#### **V2: Launched 02 Oct 2022**
 
-The word "elemental" also means simple and uncomplicated.
+The V2 system coincided with the launch of our first $USDC fund and introduced the concept of a compound and insurance fund. The compound fund allows for Elemental to steadily grow its yield over time, and the insurance fund provides users some recovery value in the face of adversity.
 
-It is common for projects to display large gains, only for users to find out that there are fees and costs hidden between the layers. The net yield is usually not what is boldly advertised.
+#### V1: Launched 09 Sep 2022
 
-We think that is disingenuous, and it only harms the users.
+Elemental launched with a handful of users with just 100 $SOL. This V1 system was largely exploratory with extremely erratic returns of varying durations. It however still achieved a fairly impressive 18.23% annualized yield and proved that the fund can be a viable product.
 
-At Elemental, our goal is to make investing simple for users. All they have to do is:
+## Links
 
-1\) Deposit
+Official Website:\
+[https://elemental.player2.world](https://elemental.player2.world)
 
-2\) Earn
+Twitter:\
+[https://twitter.com/elementaldefi](https://twitter.com/elementaldefi)
 
-And we will take care of the rest.&#x20;
+Discord:\
+[https://discord.gg/player2](https://discord.gg/player2)
 
-And our promise is that **our displayed yield** will always be **the true yield** you receive.
-
-There are no deposit or staking fees, no performance fees, no withdrawal fees. **There are no fees.**
-
-**Elemental = Powerful**
-
-Elemental also means power. It is used to describe great forces of nature.
-
-While we are starting with humble beginnings, we believe our core design of "compounding" wields tremendous power. All our funds compound a portion of their gains. This means the longer they exist, the larger the yield they will be able to give.
-
-Over time, this builds an increasingly wider economic moat.
-
-#### Elemental = Balanced
-
-Elemental can also relate to the four elements in nature: Earth, water, air, and fire. Together, these elements bring balance.
-
-Likewise, we believe investing should be balanced. Our funds are named after the different elements and they inherently possess differing risks and opportunities.
-
-We encourage users to take extra time to understand the nature of each fund and diversify your portfolio in accordance with your risk appetite.
-
-Balance in all things.
-
-<figure><img src="../../.gitbook/assets/elemental_definition.png" alt=""><figcaption><p>Elemental Definition</p></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/logo_default.png" alt=""><figcaption><p>Elemental DeFi Official Logo</p></figcaption></figure>
