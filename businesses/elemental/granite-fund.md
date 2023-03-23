@@ -1,7 +1,3 @@
----
-description: Fixed-yield $USDC Fund
----
-
 # Granite Fund
 
 ## Granite Fund (14% APR)
@@ -15,6 +11,8 @@ Granite is a ubiquitous stone found in bedrock, and this fund aims to be the bed
 _Key Risk: Stablecoins devaluing, oracle issues._
 
 ## Fund Characteristics
+
+Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
 Base Token: USDC
 

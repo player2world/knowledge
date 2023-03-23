@@ -1,7 +1,3 @@
----
-description: Fixed-yield $SOL Fund
----
-
 # Tidal Fund
 
 ## Tidal Fund (13% APR)
@@ -15,6 +11,8 @@ Investing in Tidal provides a constant stream of income and allows investors to 
 _Key Risk: Protocols getting hacked._
 
 ## Fund Characteristics
+
+Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
 Base Token: SOL
 

@@ -1,7 +1,3 @@
----
-description: Fixed-yield $SOL Fund
----
-
 # Aqueous Fund
 
 ## Aqueous Fund (28% APR)
@@ -15,6 +11,8 @@ Like a stream of water, this fund offers a constant stream of income. But also l
 _Key Risk: Protocols getting hacked._
 
 ## Fund Characteristics
+
+Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
 Base Token: SOL
 

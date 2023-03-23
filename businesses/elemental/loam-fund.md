@@ -1,7 +1,3 @@
----
-description: Fixed-yield $USDC Fund
----
-
 # Loam Fund
 
 ## Loam Fund (7% APR)
@@ -15,6 +11,8 @@ The fund is named after a type of soil that is nutrient-rich and has the right t
 _Key Risk: Stablecoins devaluing, oracle issues._
 
 ## Fund Characteristics
+
+Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
 Base Token: USDC
 
