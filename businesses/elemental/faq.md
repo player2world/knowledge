@@ -6,7 +6,7 @@ A: From DeFi protocols across Solana. The Solana ecosystem is vast, and there ar
 
 **Q: Are the yields sustainable?**
 
-A: Since we derive yields outside of Elemental, they are sustainable so long as such sources exist. However, the number will fluctuate depending on what is available on Solana. We expect these numbers to shrink as the markets become more efficient.
+A: Since we derive yields outside of Elemental, they are sustainable so long as such sources exist. However, the number will fluctuate depending on what is available on Solana. We expect these numbers to shrink as the markets become more efficient, meaning that as more participants enter the market and capitalize on existing opportunities, the yield rates may decrease. Despite this, we constantly monitor the Solana ecosystem for new opportunities to maintain competitive yields for our investors.
 
 **Q: How are you able to give a fixed yield then?**
 
@@ -14,7 +14,7 @@ A: We maintain a buffer fund. As we expect our revenue to fluctuate, we created 
 
 **Q: Elemental Epoch?**
 
-A: We have our own epoch duration of 5 days. View schedule: [elemental-epoch.md](elemental-epoch.md "mention")
+A: An Elemental Epoch is a 5-day period used to manage and unwind positions for timely withdrawal payouts. View schedule: [elemental-epoch.md](elemental-epoch.md "mention")
 
 **Q: When can I deposit?**
 
@@ -26,7 +26,7 @@ A: You may initiate a withdrawal anytime. However, your funds will need to compl
 
 **Q: Is Elemental's yield expected to drop over the long run?**
 
-A: Not necessarily, and quite possibly the opposite. We compound a portion of our gains. This means ceteris paribus, our yields should rise steadily over time.
+A: Not necessarily, and quite possibly the opposite. We compound a portion of our gains. This means, all other things being equal (ceteris paribus), our yields should rise steadily over time.
 
 **Q: Can you lose money?**
 
@@ -34,11 +34,11 @@ A: Yes. All investments carry risk. The protocols we invest in may get hacked, s
 
 **Q: What happens if you lose money?**
 
-A: Our funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer fund which is growing steadily.
+A: Elemental's funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer fund which is growing steadily.
 
 **Q: Can I lose my deposit?**
 
-A: Yes, but not so easily. For you to lose a portion of your deposit, we will have to exhaust our buffer fund, compound fund, and mint fund. As buffer fund also acts as an insurance fund, to provide maximum safety, it will only invest its $SOL in native staking, and its $USDC will remain uninvested. This ensures the buffer fund does not take on **any** external protocol risk.
+A: While it's not easy to lose your deposit, it's still possible. To lose a portion of your deposit, we would have to exhaust our buffer fund, compound fund, and mint fund. The buffer fund also serves as insurance, investing its $SOL in native staking and keeping its $USDC uninvested to eliminate external protocol risk.
 
 **Q: What's in it for you?**
 
