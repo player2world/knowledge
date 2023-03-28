@@ -26,4 +26,8 @@ Insurance Coverage: Partial
 
 Access: Public
 
+Minimum Deposit: 100 USDC
+
+Maximum Deposit: 10,000 USDC
+
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.

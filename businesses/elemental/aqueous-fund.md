@@ -26,4 +26,8 @@ Insurance Coverage: Partial
 
 Access: Requires NFT
 
+Minimum Deposit: 2 SOL
+
+Maximum Deposit: 10 SOL per NFT
+
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.

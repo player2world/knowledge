@@ -26,4 +26,8 @@ Insurance Coverage: Partial
 
 Access: Requires NFT
 
+Minimum Deposit: 20 USDC
+
+Maximum Deposit: 100 USDC per NFT
+
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.

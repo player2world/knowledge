@@ -26,4 +26,8 @@ Insurance Coverage: Partial
 
 Access: Public
 
+Minimum Deposit: 10 SOL
+
+Maximum Deposit: 1,000 SOL
+
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.
