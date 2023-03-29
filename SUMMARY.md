@@ -22,6 +22,7 @@
     * [Granite Fund](businesses/elemental/granite-fund.md)
     * [Tidal Fund](businesses/elemental/tidal-fund.md)
     * [Loam Fund](businesses/elemental/loam-fund.md)
+    * [Riviera Fund](businesses/elemental/riviera-fund.md)
     * [Elemental Epoch](businesses/elemental/elemental-epoch.md)
   * [Liquidation-free Loans](businesses/liquidation-free-loans.md)
     * [Terms](businesses/liquidation-free-loans/terms.md)
