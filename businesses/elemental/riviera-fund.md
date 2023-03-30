@@ -1,6 +1,6 @@
 # Riviera Fund
 
-## Loam Fund (15% APR)
+## Riviera Fund (15% APR)
 
 The Riviera Fund is a premier SOL fund tailored exclusively for high net worth individuals and projects seeking to invest their treasuries a simple but secure environment. The Riviera Fund delivers exceptional risk-adjusted returns, and personalized attention to its clientele.
 
