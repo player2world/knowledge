@@ -8,7 +8,7 @@ As an actively managed fund, Riviera generates returns primarily through yield f
 
 Like the luxurious Mediterranean coastline that inspired its name, the Riviera Fund embodies exclusivity and prestige. As the tides of the Riviera coast rise and fall, the fund's yields will also fluctuate based on the availability of opportunities on Solana DeFi, but with a consistent focus on delivering unparalleled returns for its discerning clientele.
 
-<figure><img src="../../.gitbook/assets/23_03_30_riviera_launch.png" alt=""><figcaption><p>Riviera Fund</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23_03_30_riviera_launch.png" alt=""><figcaption><p>Riviera Fund Launch</p></figcaption></figure>
 
 ## Fund Characteristics
 

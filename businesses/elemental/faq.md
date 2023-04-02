@@ -10,7 +10,7 @@ A: Since we derive yields outside of Elemental, they are sustainable so long as 
 
 **Q: How are you able to give a fixed yield then?**
 
-A: We maintain a buffer fund. As we expect our revenue to fluctuate, we created the buffer fund to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
+A: We have a compound fund which also acts as a buffer. As we expect our revenue to fluctuate, we created this fund to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
 
 **Q: Elemental Epoch?**
 
@@ -34,15 +34,15 @@ A: Yes. All investments carry risk. The protocols we invest in may get hacked, s
 
 **Q: What happens if you lose money?**
 
-A: Elemental's funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our buffer fund which is growing steadily.
+A: Elemental's funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our insurance fund which is growing steadily.
 
 **Q: Can I lose my deposit?**
 
-A: While it's not easy to lose your deposit, it's still possible. To lose a portion of your deposit, we would have to exhaust our buffer fund, compound fund, and mint fund. The buffer fund also serves as insurance, investing its $SOL in native staking and keeping its $USDC uninvested to eliminate external protocol risk.
+A: While it's not easy to lose your deposit, it's still possible. To lose a portion of your deposit, we would have to exhaust our insurance fund, compound fund, and mint fund. The insurance fund only invests its $SOL in native staking and keeps its $USDC uninvested to eliminate external protocol risk.
 
 **Q: What's in it for you?**
 
-After paying the yields, Player 2 sales tax, adding to the buffer fund, and reinvesting some for compound growth, we keep the remaining profits for ourselves.
+After paying the yields, Player 2 sales tax, adding to the insurance fund, and reinvesting some for compound growth, we keep the remaining profits for ourselves.
 
 **Q: I'm convinced! How do I get in?**
 
