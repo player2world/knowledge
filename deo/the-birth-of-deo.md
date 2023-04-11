@@ -14,6 +14,6 @@ Diamond (DMD) dazzled its way into second place, while Power (PWR) surged into t
 
 Today, we take pride in Deo as a vital component within our Player 2 ecosystem. While our journey so far has been nothing short of remarkable, we are fully aware that there is still much work to be done.
 
-As we navigate through the oscillating market conditions, our commitment to building and enhancing the Player 2 ecosystem remains steadfast. Together with our incredible community, we will continue to forge ahead.
+As we navigate through the oscillating market conditions, our commitment to building and enhancing the Player 2 ecosystem remains steadfast. Together with our incredible community, we will continue to forge ahead. Game on!
 
 <figure><img src="../.gitbook/assets/player2_currency_naming.png" alt=""><figcaption></figcaption></figure>
