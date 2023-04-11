@@ -12,6 +12,7 @@
 * [Deo](deo/README.md)
   * [Official Deo Information](deo/official-deo-information.md)
   * [Deo Litepaper](deo/deo-litepaper.md)
+  * [The Birth of Deo](deo/the-birth-of-deo.md)
   * [IDO FAQ](deo/ido-faq.md)
   * [IDO and the Path Forward](deo/ido-and-the-path-forward.md)
 * [Businesses](businesses/README.md)

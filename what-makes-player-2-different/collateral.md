@@ -4,7 +4,7 @@ _What makes Player 2 different?_&#x20;
 
 **Collateral.**&#x20;
 
-****[$DEO](https://twitter.com/search?q=%24DEO\&src=cashtag\_click) is our currency, and it will be collateralized.&#x20;
+[$DEO](https://twitter.com/search?q=%24DEO\&src=cashtag\_click) is our currency, and it will be collateralized.&#x20;
 
 Many countries have a "currency reserve" which comprises of foreign currencies. This creates intrinsic value, and allows for a stable exchange rate.
 

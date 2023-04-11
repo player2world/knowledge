@@ -11,7 +11,7 @@ As a Player, I promise to exemplify the values of Player 2. I will:
 **Create Value**
 
 Our Player 2 economy functions because there's commerce.\
-****People purchase services because they expect value in return.\
+People purchase services because they expect value in return.\
 But services are not the only source of value;\
 new ideas and perspectives are valuable too.\
 These are the sparks that may help others grow a flame.\
@@ -44,4 +44,3 @@ Post a picture of yourself doing 🤞 and add 🤞 behind your name!
 
 Add 'P2' to your username; that's our "clan tag". We're gamers after all.
 
-****
