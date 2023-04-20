@@ -8,9 +8,9 @@ Elemental is an easy-to-use investment platform that gives users access to a ran
 
 ## History
 
-#### V4: Submitted to Solana's Grizzlython on 14 Mar 2023
+#### V4: TBA
 
-Elemental is evolving yet again! More details to come.
+Elemental will launch its smart contracts on Player 2's site.
 
 #### V3: Launched 20 Nov 2022
 
