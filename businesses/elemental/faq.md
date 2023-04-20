@@ -44,6 +44,6 @@ A: While it's not easy to lose your deposit, it's still possible. To lose a port
 
 After paying the yields, Player 2 sales tax, adding to the insurance fund, and reinvesting some for compound growth, we keep the remaining profits for ourselves.
 
-**Q: I'm convinced! How do I get in?**
+**Q: I'm convinced, how do I get in?**
 
 A: Purchase a Farmer NFT, get verified, and drop us a note in our #elemental channel on Discord. In the future, we will be releasing our own Elemental NFTs that will serve as your access pass.
