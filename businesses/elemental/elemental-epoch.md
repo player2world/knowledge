@@ -1,6 +1,6 @@
 # Elemental Epoch
 
-Elemental uses its own custom epoch and it runs for 5 days. Below are the epoch start/end dates. Epochs begin/end at 0000h UTC.
+At Elemental, we follow our own unique epoch schedule, with each epoch spanning 5 days. Each epoch begins and ends at 0000h UTC. Below are the start and end dates for a selection of sample epochs.
 
 ## Epoch Schedule
 
@@ -19,13 +19,3 @@ Elemental uses its own custom epoch and it runs for 5 days. Below are the epoch 
 29 Jan 2023
 
 03 Feb 2023
-
-08 Feb 2023
-
-13 Feb 2023
-
-18 Feb 2023
-
-23 Feb 2023
-
-28 Feb 2023
