@@ -10,7 +10,7 @@ Elemental is an easy-to-use investment platform that gives users access to a ran
 
 #### V4: TBA
 
-Elemental will launch its smart contracts on Player 2's site.
+Elemental will launch the ability to natively deposit and withdraw via Player 2's website.
 
 #### V3: Launched 20 Nov 2022
 
