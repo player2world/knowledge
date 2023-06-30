@@ -4,25 +4,27 @@ description: Passive Income Made Simple
 
 # Elemental
 
-Elemental is an easy-to-use investment platform that gives users access to a range of actively managed funds operating across Solana DeFi. Our platform simplifies investing, allowing users to deposit funds and start earning passive income without any additional effort. With Elemental, users can select from a variety of funds, each with its own unique strategy, providing diversification and potentially higher returns. Whether you're a seasoned DeFi user or just starting out, Elemental makes investing easier for you.
+Elemental is a user-friendly investment platform that gives users access to a range of actively managed funds within Solana DeFi. Our platform simplifies the investment process, empowering users to deposit funds and embark on their journey towards earning passive income effortlessly. Elemental caters to beginners and seasoned DeFi investors alike by providing an array of funds, each with a unique strategy, promoting diversification and the potential for higher returns.
+
+Evolving through various iterations, Elemental underscores its commitment to continual growth and adaptation, making investing a smoother journey for all. From its humble beginnings with just 100 $SOL, to becoming pioneers of fixed-yield returns in DeFi, each step forward brings Elemental closer to delivering the optimal risk-adjusted yield to its users, with utmost simplicity.
 
 ## History
 
-#### V4: TBA
+#### V4: Coming Soon
 
-Elemental will launch the ability to natively deposit and withdraw via Player 2's website.
+Stay tuned! We're preparing something exciting for you.
 
 #### V3: Launched 20 Nov 2022
 
-Elemental becomes the first fund on Solana to allow a fixed-yield return. While the yields may be gradually adjusted over longer periods, they are fixed within each [Elemental Epoch](elemental-epoch.md) of 5 days. This is made possible by the introduction of a buffer fund which acts as a cushion to absorb volatility.
+V3 brought a revolution in DeFi funds, making Elemental the pioneer to offer fixed-yield returns. Although yields may be adjusted over longer periods, they are fixed within each [Elemental Epoch](elemental-epoch.md) of 5 days. This is made possible through the Compound Fund, which serves as a buffer to soften the impact of volatility.
 
 #### **V2: Launched 02 Oct 2022**
 
-The V2 system coincided with the launch of our first $USDC fund and introduced the concept of a compound and insurance fund. The compound fund allows for Elemental to steadily grow its yield over time, and the insurance fund provides users some recovery value in the face of adversity.
+The introduction of V2 brought with it the concept of the Compound and Insurance Funds. The Compound Fund enables Elemental to steadily grow its yield over time, whereas the Insurance Fund offers a safety net to users, providing partial recovery in the face of protocol hacks. Alongside this, Elemental also debut their first $USDC fund.
 
 #### V1: Launched 09 Sep 2022
 
-Elemental launched with a handful of users with just 100 $SOL. This V1 system was largely exploratory with extremely erratic returns of varying durations. It however still achieved a fairly impressive 18.23% annualized yield and proved that the fund can be a viable product.
+Elemental's journey began with just a handful of users and a humble 100 $SOL. V1 was a sandbox for exploration, yielding returns with unpredictable variability. Despite the volatility, it delivered a commendable 18.23% annualized yield, affirming the viability of the fund as a product.
 
 ## Links
 
