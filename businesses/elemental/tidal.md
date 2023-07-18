@@ -8,7 +8,7 @@ Managed actively, Tidal generates returns through yield farming and arbitrage op
 
 Investing in Tidal provides a constant stream of income and allows investors to earn passive income on their SOL holdings. Just like how the ocean's tide rises and falls based on the movements of the sun and moon, the fund's yields will also vary depending on the availability of opportunities on Solana DeFi.
 
-_Key Risk: Protocols getting hacked._
+_Key Risk: Protocols getting exploited._
 
 ## Fund Characteristics
 

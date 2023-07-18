@@ -10,6 +10,8 @@ Much like the properties of ether in chemistry, the Ether Fund promises to provi
 
 _Key Risk: Protocols getting exploited, key tokens depegging (>5%), Portal Bridge getting hacked_
 
+## Artwork
+
 <figure><img src="../../.gitbook/assets/23_07_18_ether_launch.png" alt=""><figcaption><p>Ether Fund Launch</p></figcaption></figure>
 
 ## Fund Characteristics

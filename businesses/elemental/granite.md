@@ -8,7 +8,7 @@ As an actively managed fund, Aqueous generates returns primarily through yield f
 
 Granite is a ubiquitous stone found in bedrock, and this fund aims to be the bedrock of Elemental; strong and reliable.
 
-_Key Risk: Stablecoins devaluing, oracle issues._
+_Key Risk: Stablecoins depegging, oracle issues._
 
 ## Fund Characteristics
 

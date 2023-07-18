@@ -8,7 +8,7 @@ As an actively managed fund, Aqueous generates returns primarily through yield f
 
 Like a stream of water, this fund offers a constant stream of income. But also like water, the USD notional value of your income will ebb and flow since Aqueous pays in $SOL.
 
-_Key Risk: Protocols getting hacked._
+_Key Risk: Protocols getting exploited._
 
 ## Fund Characteristics
 
