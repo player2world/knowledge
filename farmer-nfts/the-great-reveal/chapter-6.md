@@ -4,7 +4,11 @@ description: What are we Minting?
 
 # Chapter 6
 
-![](../../.gitbook/assets/Tweet-Post6.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/Tweet-Post6.png" alt="">
+
+</div>
 
 The most important question, finally!
 

@@ -14,7 +14,7 @@ _Key Risk: Stablecoins devaluing, oracle issues._
 
 Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
-Base Token: USDC
+Base Token: USDC (EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)
 
 APR Type: Fixed
 

@@ -4,7 +4,11 @@ description: Good Bots Only
 
 # Chapter 2
 
-![](../../.gitbook/assets/Tweet-Post2.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/Tweet-Post2.png" alt="">
+
+</div>
 
 We love technology and we want to use it to build a kind and genuine community. However our #SolanaNFT space is riddled with those who use it negatively. To win the war, we must upkeep our values, but also understand the enemy’s modus operandi.
 

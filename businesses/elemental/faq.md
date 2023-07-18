@@ -26,24 +26,20 @@ A: You may initiate a withdrawal anytime. However, your funds will need to compl
 
 **Q: Is Elemental's yield expected to drop over the long run?**
 
-A: Not necessarily, and quite possibly the opposite. We compound a portion of our gains. This means, all other things being equal (ceteris paribus), our yields should rise steadily over time.
+A: Not necessarily, and most likely the opposite. We compound a portion of our gains. This means, all other things being equal (ceteris paribus), our yields should rise steadily over time.
 
-**Q: Can you lose money?**
+**Q: Can I lose money by investing in your funds?**
 
-A: Yes. All investments carry risk. The protocols we invest in may get hacked, stablecoins may devalue, and more. However, we do our best to seek the best risk-adjusted returns, and diversify our portfolio to segment the risks. Barring such events, our funds should have full capital preservation.
+A: Yes, all investments inherently carry risk. Despite our diligence in seeking the best risk-adjusted returns and diversifying our portfolio, unforeseen circumstances such as protocol exploits, token depegging, or bridge hacks could lead to losses. Nonetheless, our team continually monitors market conditions to mitigate these risks as much as possible.
 
-**Q: What happens if you lose money?**
+**Q: What happens if the funds lose money?**
 
-A: Elemental's funds will still produce yield, albeit smaller. Since our funds also compound, they will regrow. We also have our insurance fund which is growing steadily.
+A: In the unfortunate event of losses, Elemental has three backstops: 1) Insurance Fund 2) Compound Fund 3) Mint Fund. These funds are the first line of defense to cover any losses. If these funds are inadequate, the remaining losses will be allocated pro-rata among all investors.
 
-**Q: Can I lose my deposit?**
+**Q: What's the benefit for Elemental?**
 
-A: While it's not easy to lose your deposit, it's still possible. To lose a portion of your deposit, we would have to exhaust our insurance fund, compound fund, and mint fund. The insurance fund only invests its $SOL in native staking and keeps its $USDC uninvested to eliminate external protocol risk.
+A: Elemental operates with a long-term vision of growth and sustainability. After we disburse yields, pay the Player 2 sales tax, execute $ELE buybacks, contribute to the insurance fund, and reinvest for compound growth, the remaining profits are retained by Elemental. These resources support our ongoing operations and continual enhancement of our services.
 
-**Q: What's in it for you?**
+**Q: I'm interested, how do I join Elemental?**
 
-After paying the yields, Player 2 sales tax, adding to the insurance fund, and reinvesting some for compound growth, we keep the remaining profits for ourselves.
-
-**Q: I'm convinced, how do I get in?**
-
-A: Purchase a Farmer NFT, get verified, and drop us a note in our #elemental channel on Discord. In the future, we will be releasing our own Elemental NFTs that will serve as your access pass.
+A: We're thrilled to have you onboard! Elemental is open to everyone. However, certain funds such as Aqueous and Granite require fund-specific NFTs for access. To get started, visit our platform at [elemental.player2.world](https://elemental.player2.world/).&#x20;

@@ -1,6 +1,10 @@
 # Winterrose
 
-![](../.gitbook/assets/character\_frame\_winterrose.png)
+<div align="left">
+
+<img src="../.gitbook/assets/character_frame_winterrose.png" alt="">
+
+</div>
 
 #### Winterrose the Wise
 

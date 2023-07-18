@@ -12,6 +12,10 @@ This means:
 
 2\) 100% of wrBTC tokens are held by Player 2's community of Players.
 
-![](../.gitbook/assets/wrBTC\_tokenomics.png)
+<div align="left">
+
+<img src="../.gitbook/assets/wrBTC_tokenomics.png" alt="">
+
+</div>
 
 As for the three accumulator tokens BTCA1, BTCA2, and BTCA3, they can only be minted through the protocol using wrBTC and hence are derivatives of wrBTC. This means they hold the same underlying principals of wrBTC.

@@ -8,4 +8,8 @@ description: A collection of beautifully written articles by the public!
 Slorg, Feb 1, 2023\
 [https://twitter.com/SlorgoftheSlugs/status/1620887403392290816?s=20\&t=RGc6EW8sCaU\_kFlU3UZEGQ](https://twitter.com/SlorgoftheSlugs/status/1620887403392290816?s=20\&t=RGc6EW8sCaU\_kFlU3UZEGQ)
 
+<div align="left">
+
 <figure><img src=".gitbook/assets/chrome_jHib6PZZfM.png" alt=""><figcaption></figcaption></figure>
+
+</div>

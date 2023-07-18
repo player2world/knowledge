@@ -1,6 +1,10 @@
 # Dandi
 
-![](../.gitbook/assets/character\_frame\_dandi.png)
+<div align="left">
+
+<img src="../.gitbook/assets/character_frame_dandi.png" alt="">
+
+</div>
 
 #### Dandi the Farmer
 

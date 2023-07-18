@@ -1,6 +1,10 @@
 # Nettly
 
-![](../.gitbook/assets/character\_frame\_nettly.png)
+<div align="left">
+
+<img src="../.gitbook/assets/character_frame_nettly.png" alt="">
+
+</div>
 
 #### Nettly the Farmer
 

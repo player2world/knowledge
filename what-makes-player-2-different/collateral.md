@@ -24,4 +24,8 @@ Welcome to the [#valuemeta](https://twitter.com/hashtag/valuemeta?src=hashtag\_c
 
 Bullish yet?
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/floorpriceshield.jpg" alt=""><figcaption><p>Floor Price Shield by <a href="https://twitter.com/Begallampung57">Begallampung57</a></p></figcaption></figure>
+
+</div>

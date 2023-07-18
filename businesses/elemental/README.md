@@ -10,9 +10,9 @@ Evolving through various iterations, Elemental underscores its commitment to con
 
 ## History
 
-#### V4: Coming Soon
+#### V4: Launched 18 Jul 2023
 
-Stay tuned! We're preparing something exciting for you.
+Striving to further diversify our offerings, Elemental proudly launches its very first $ETH fund: Ether. This flagship fund leverages the use of wrapped $ETH, providing investors access to the vibrant Ethereum ecosystem while harnessing the cost-efficiency and high-speed capabilities of Solana.
 
 #### V3: Launched 20 Nov 2022
 

@@ -4,7 +4,11 @@
 
 Read more: [the-bitcoin-accumulator](../the-bitcoin-accumulator/ "mention")
 
-![](../.gitbook/assets/character\_frame\_baatar.png)
+<div align="left">
+
+<img src="../.gitbook/assets/character_frame_baatar.png" alt="">
+
+</div>
 
 #### Baatar the Bargain Hunter
 

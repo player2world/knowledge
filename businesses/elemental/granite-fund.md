@@ -14,7 +14,7 @@ _Key Risk: Stablecoins devaluing, oracle issues._
 
 Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
-Base Token: USDC
+Base Token: USDC (EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)
 
 APR Type: Fixed
 
@@ -28,6 +28,6 @@ Access: Requires NFT
 
 Minimum Deposit: 20 USDC
 
-Maximum Deposit: 100 USDC per NFT
+Maximum Deposit: 200 USDC per NFT
 
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.

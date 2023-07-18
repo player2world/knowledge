@@ -30,4 +30,8 @@ Likewise, “What is Player 2?” is the hardest question to answer because Play
 
 If you are feeling unsettled at this point, good. We are not here to build just another “crypto project”. If you are looking for that, we recommend you stop here and we thank you for your time. We are building something hyper ambitious; it has a good chance of failure, but if it succeeds it will wield the potential to shape our collective future. So if a rocky ride is your cup of tea, then I welcome you to join us on this adventure.
 
-![](.gitbook/assets/Wise\_Idle\_FullAnimation.gif)
+<div align="left">
+
+<img src=".gitbook/assets/Wise_Idle_FullAnimation.gif" alt="">
+
+</div>

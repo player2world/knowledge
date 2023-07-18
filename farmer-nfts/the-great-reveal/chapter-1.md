@@ -4,7 +4,11 @@ description: Be the Change You Want to See
 
 # Chapter 1
 
-![](../../.gitbook/assets/Tweet-Post1.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/Tweet-Post1.png" alt="">
+
+</div>
 
 The #SolanaNFT space has seen tremendous growth in the past weeks, with many new wallets coming from the #Ethereum community.
 
