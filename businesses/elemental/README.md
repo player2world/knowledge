@@ -10,21 +10,25 @@ Evolving through various iterations, Elemental underscores its commitment to con
 
 ## A Walk Through History
 
-#### 18 Jul 2023 - Expanding into $ETH
+#### 18 Jul 2023 - Ethereum Expansion
 
-Striving to further diversify our offerings, Elemental proudly launches its very first $ETH fund: Ether. This flagship fund leverages the use of wrapped $ETH, providing investors access to the vibrant Ethereum ecosystem while harnessing the cost-efficiency and high-speed capabilities of Solana.
+Striving to further diversify their offerings, Elemental launched its inaugural $ETH fund: Ether. Utilizing wrapped $ETH, the fund offers investors the dynamism of Ethereum's ecosystem, while harnessing the cost-efficiency and high-speed capabilities of Solana.
 
-#### 20 Nov 2022 - Transformation to fixed-yield returns
+**19 Mar 2023 - Grizzlython Endeavor**
 
-V3 brought a revolution in DeFi funds, making Elemental the pioneer to offer fixed-yield returns. Although yields may be adjusted over longer periods, they are fixed within each [Elemental Epoch](elemental-epoch.md) of 5 days. This is made possible through the Compound Fund, which serves as a buffer to soften the impact of volatility.
+Elemental made its competitive debut at the seventh Solana hackathon, Grizzlython. Their innovative proposal for a "funds marketplace" aimed to usher in a new era of actively managed funds. Although not victorious, the experience yielded invaluable insights and honed their vision for the future.
 
-#### **02 Oct 2022 - Introducing compound and insurance funds**
+#### 20 Nov 2022 - Fixed-Yield Revolution
 
-The introduction of V2 brought with it the concept of the Compound and Insurance Funds. The Compound Fund enables Elemental to steadily grow its yield over time, whereas the Insurance Fund offers a safety net to users, providing partial recovery in the face of protocol hacks. Alongside this, Elemental also debut their first $USDC fund.
+Defying the norm of floating yields, Elemental pioneered fixed-yield returns in the DeFi landscape. Yield rates, stable within each 5-day [Elemental Epoch](elemental-epoch.md), were made possible by the unique Compound Fund, offering a buffer against market volatility.
 
-#### 09 Sep 2022 - Genesis
+#### **02 Oct 2022 -** Compound and Insurance Funds Launch
 
-Elemental's journey began with just a handful of users and a humble 100 $SOL. V1 was a sandbox for exploration, yielding returns with unpredictable variability. Despite the volatility, it delivered a commendable 18.23% annualized yield, affirming the viability of the fund as a product.
+To cultivate growing yields, Elemental introduced the Compound and Insurance Funds. The former facilitates yield growth over time, while the latter shields users with partial recovery from protocol hacks. In tandem with these advancements, Elemental unveiled its first $USDC fund.
+
+#### 09 Sep 2022 - Elemental's Genesis
+
+With a modest starting point of 100 $SOL and a handful of users, Elemental embarked on its journey. Despite initial volatility, the alpha version achieved a robust 18.23% annualized yield, validating the fund's potential.
 
 ## Links
 
