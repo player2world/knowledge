@@ -42,17 +42,15 @@ We need to be **very** conscious about what we deploy. If something doesn't smel
 
 Given that we are in a bear market, and we'll likely be in one for at least a year, we'll focus on products that people would want to use in a prolonged bear market.
 
-Take for example [manifesto.md](../businesses/elemental/manifesto.md "mention"). Is it a product people would want to use in a bear? YES. Would MORE people want to use it if we opened it up further? YES. Do we make money from it? YES. Fantastic product.
+Take for example [Elemental](../businesses/elemental/). Is it a product people would want to use in a bear? YES. Would MORE people want to use it if we opened it up further? YES. Do we make money from it? YES. Fantastic product.
 
-Another one is [liquidation-free-loans.md](../businesses/liquidation-free-loans.md "mention"). Would people want to use in a bear? YES. Would new people buying our NFTs want to also use it? YES. Do we make money from it? YES. Fantastic product.
+Another one is [Liquidation-free Loans](../businesses/liquidation-free-loans.md). Would people want to use in a bear? YES. Would new people buying our NFTs want to also use it? YES. Do we make money from it? YES. Fantastic product.
 
 ## Growth
 
-As you have read from above, we will grow our Player 2 economy via launching multiple products. This means each new Player joining us becomes increasingly more impactful over time. At first a Player might be a user of 2 products. But as the ecosystem grows, he or she may use 3, then 4, etc. But it is not just more products being available, it is also the products being **synergistic**.
+We will grow our Player 2 economy via launching multiple products. This means each new Player joining us becomes increasingly more impactful over time. At first a Player might be a user of 2 products. But as the ecosystem grows, he or she may use 3, then 4, etc. But it is not just more products being available, it is also the products being **synergistic**.
 
-For example: Right now you can take a $USDC loan off your NFT at a 12% interest rate. Then you can take the $USDC and invest into Elemental for a 14% yield. That's a free 2%. This is **our version of "staking"**. While most projects give you a likely worthless token, **we give you $USDC**.
-
-And what's more? Since all businesses pay taxes, they grow our **collective bags.** This happens because taxes get used to buy and burn $DEO, which in turn will start to appreciate. Just by doing the above, you are supporting two different businesses that are paying a 5% $DEO tax.
+And what's more? Since all businesses pay taxes, they grow our **collective bags.** This happens because taxes get used to buyback $DEO, which in turn will start to appreciate. Just by doing the above, you are supporting two different businesses that are paying a 5% $DEO tax.
 
 ## Farmer NFTs
 
