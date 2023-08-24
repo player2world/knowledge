@@ -12,7 +12,7 @@ _Key Risk: Protocols getting exploited, key tokens depegging (>5%), Portal Bridg
 
 ## Artwork
 
-<figure><img src="../../.gitbook/assets/23_07_18_ether_launch.png" alt=""><figcaption><p>Ether Fund Launch</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/23_08_24_ether_revised_apr.png" alt=""><figcaption></figcaption></figure>
 
 ## Fund Characteristics
 
