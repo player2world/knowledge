@@ -1,6 +1,6 @@
 # Ether Fund
 
-## Ether Fund (16% APR)
+## Ether Fund (12% APR)
 
 The Ether Fund represents a transformative addition to Elemental's offerings, specifically designed for investors seeking exposure to the Ethereum ecosystem. Much like its namesake in chemistry, a volatile yet transparent liquid, the Ether Fund embodies the fluidity and transparency of Ethereum's DeFi landscape.
 
