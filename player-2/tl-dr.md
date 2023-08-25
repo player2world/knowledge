@@ -6,27 +6,28 @@ description: Lazy to read through our docs? Here's a one-pager tl;dr of Player 2
 
 ## Player 2
 
-Player 2 helps you discover Solana through a gamified world. It's where communities and businesses meet, and it's powered by a USDC backed economy.
+Player 2 is a dynamic directory on Solana. We've transformed discoverability into an adventure, enabling users to learn about new projects in a gamified world.
 
-## 1) **Discovery through a Gamified World**
+## 1) A Directory for Solana
 
-Our platform enables the launch of new projects, which we refer to as [businesses](../businesses/), in a unique and engaging way. Businesses are represented as Non-Player Characters (NPCs) or buildings in our gamified world, providing a fun and immersive experience for users.
+Player 2 serves as a one-stop directory for everything on Solana: from protocols and NFT projects to blogs and wikis.
 
-These businesses should offer true value - products or services that people are willing to pay for. This contributes to the ecosystem by generating true revenue.
+## 2) **Making Discovery Fun**
 
-## 2) $DEO: A Token with Real Intrinsic Value
+Traditional directories can be mundane. In Player 2, businesses, referred to as [Businesses](../businesses/), come to life as Non-Player Characters (NPCs) in our gamified world. This offers users an engaging and immersive exploration experience.
 
-The $DEO token is the beating heart of our platform, and it's unlike any other token out there. Backed by a reserve of $USDC, $DEO has real intrinsic value (initially starting at 0.10 $USDC per $DEO) that sets it apart from the rest. This backing gives $DEO the ability to withstand even the harshest bear markets, providing a high level of security and stability.
+<figure><img src="../.gitbook/assets/chrome_724qOocq2f.png" alt=""><figcaption></figcaption></figure>
 
-Furthermore, because $DEO has intrinsic value, it offers an asymmetrical risk profile. With limited downside risk and unlimited upside potential, $DEO is a token with an unmatched risk-reward ratio.
+## 3) $DEO: A Token with Intrinsic Value
 
-## 3) The Twin Engines: A Perpetual Force for Increasing Intrinsic Value over Time
+The $DEO token is the beating heart of Player 2, and it's unlike any other token out there. What makes it unique is its intrinsic value (initially at $0.10 per $DEO) backed by a basket of assets. This intrinsic value not only ensures $DEO's resilience in fluctuating markets but also positions it as a token with a distinct risk-reward proposition.
 
-While we believe in the power of intrinsic value, we also believe that value should not idle - it should to grow over time. That's why we've developed two powerful mechanisms that we call the Twin Engines to drive the intrinsic value of $DEO.
+## 4) $DEO Mechanics
 
-The first engine is **growing our Reserve**. Player 2 channels a portion of their revenue into growing the reserve, increasing the backing per token, benefiting both businesses and investors alike.
+We envision $DEO's value to appreciate over time, and for that, we've instituted the Twin Engines:
 
-The second engine is **burning the token supply**. Player 2 has a global 5% tax, which all businesses pay in exchange for access to our supportive community. This tax gets used to buy and burn $DEO, creating buy pressure and achieving a deflationary effect simultaneously. This directly helps to drive up the value of $DEO over time.
+* **Reserve Augmentation:** A portion of Player 2's revenue feeds into expanding our reserve. This continuous input not only enhances the backing for each token but also serves as an advantage for businesses and investors.
+* **Buyback Initiative:** Every business on Player 2 contributes a 5% tax, facilitating our community's growth. These funds are strategically used to repurchase $DEO, setting in motion an increase in buy pressure and a deflationary trend. Both of these together drive $DEO's value upwards.
 
 ## We hang out on [Discord](https://discord.gg/player2)
 

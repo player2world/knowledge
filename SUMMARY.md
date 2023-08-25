@@ -2,7 +2,9 @@
 
 * [Player 2](README.md)
   * [tl;dr](player-2/tl-dr.md)
-  * [tl;dr of the tl;dr](player-2/tl-dr-of-the-tl-dr.md)
+* [Player 2 Phase 2](player-2-phase-2/README.md)
+  * [23 Aug 23](player-2-phase-2/23-aug-23.md)
+  * [24 Aug 23](player-2-phase-2/24-aug-23.md)
 * [What makes Player 2 different?](what-makes-player-2-different/README.md)
   * [Stickiness](what-makes-player-2-different/stickiness.md)
   * [Collateral](what-makes-player-2-different/collateral.md)
