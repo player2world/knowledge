@@ -7,6 +7,7 @@
   * [24 Aug 23](player-2-phase-2/24-aug-23.md)
   * [28 Aug 23](player-2-phase-2/28-aug-23.md)
   * [31 Aug 23](player-2-phase-2/31-aug-23.md)
+  * [4 Sep 23](player-2-phase-2/4-sep-23.md)
 * [What makes Player 2 different?](what-makes-player-2-different/README.md)
   * [Stickiness](what-makes-player-2-different/stickiness.md)
   * [Collateral](what-makes-player-2-different/collateral.md)
