@@ -1,5 +1,9 @@
 # Ether Fund
 
+## Note: Ether has been officially sunset as of 06 Sep 2023
+
+Due to limited yield opportunities on Solana, Elemental decided to sunset its Ether Fund. All deposits and associated yields were returned to its investors. While this decision was necessary for that point in time, Elemental remain open to reintroducing the Ether Fund should market dynamics shift favorably in the future.
+
 ## Ether Fund (12% APR)
 
 The Ether Fund represents a transformative addition to Elemental's offerings, specifically designed for investors seeking exposure to the Ethereum ecosystem. Much like its namesake in chemistry, a volatile yet transparent liquid, the Ether Fund embodies the fluidity and transparency of Ethereum's DeFi landscape.
