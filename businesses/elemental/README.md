@@ -10,6 +10,10 @@ Evolving through various iterations, Elemental underscores its commitment to con
 
 ## A Walk Through History
 
+#### 06 Sep 2023 - Ether Fund Sunset
+
+Due to limited yield opportunities on Solana, Elemental decided to sunset its Ether Fund. All deposits and associated yields were returned to its investors. While this decision was necessary for that point in time, Elemental remain open to reintroducing the Ether Fund should market dynamics shift favorably in the future.
+
 #### 18 Jul 2023 - Ethereum Expansion
 
 Striving to further diversify their offerings, Elemental launched its inaugural $ETH fund: Ether. Utilizing wrapped $ETH, the fund offers investors the dynamism of Ethereum's ecosystem, while harnessing the cost-efficiency and high-speed capabilities of Solana.
