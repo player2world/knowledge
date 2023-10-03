@@ -26,7 +26,7 @@ Insurance Coverage: Partial
 
 Access: Public
 
-Minimum Deposit: 100 USDC
+Minimum Deposit: 200 USDC
 
 Maximum Deposit: 10,000 USDC
 

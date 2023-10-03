@@ -10,6 +10,10 @@ Drawing inspiration from a stone that is fundamental to the earth’s core, the 
 
 _Key Risk: Stablecoins depegging, oracle issues._
 
+## Artwork
+
+<figure><img src="../../.gitbook/assets/fund_artwork_granite.png" alt=""><figcaption><p>Granite Fund Artwork</p></figcaption></figure>
+
 ## Fund Characteristics
 
 Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
@@ -26,8 +30,6 @@ Insurance Coverage: Partial
 
 Access: Requires NFT
 
-Minimum Deposit: 20 USDC
-
-Maximum Deposit: 200 USDC per NFT
+Deposit: 200 USDC per NFT
 
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.
