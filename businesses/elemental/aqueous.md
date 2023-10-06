@@ -8,6 +8,10 @@ As an actively managed fund, Aqueous generates returns primarily through yield f
 
 _Key Risk: Protocols getting exploited._
 
+## Artwork
+
+<figure><img src="../../.gitbook/assets/fund_artwork_aqueous.png" alt=""><figcaption><p>Aqueous Fund Artwork</p></figcaption></figure>
+
 ## Fund Characteristics
 
 Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
