@@ -30,11 +30,11 @@ A: Not necessarily, and most likely the opposite. We compound a portion of our g
 
 **Q: Can I lose money by investing in your funds?**
 
-A: Yes, all investments inherently carry risk. Despite our diligence in seeking the best risk-adjusted returns and diversifying our portfolio, unforeseen circumstances such as protocol exploits, token depegging, or bridge hacks could lead to losses. Nonetheless, our team continually monitors market conditions to mitigate these risks as much as possible.
+A: Yes, all investments inherently carry risk. Despite our diligence in seeking the best risk-adjusted returns and diversifying our portfolio, unforeseen circumstances such as protocol exploits, token depegging, or bridge hacks could lead to losses. Nonetheless, our team continually monitors market conditions to minimize these risks as much as possible.
 
 **Q: What happens if the funds lose money?**
 
-A: In the unfortunate event of losses, Elemental has three backstops: 1) Insurance Fund 2) Compound Fund 3) Mint Fund. These funds are the first line of defense to cover any losses. If these funds are inadequate, the remaining losses will be allocated pro-rata among all investors.
+A: In the unfortunate event of losses, Elemental has three backstops: 1) Insurance Fund 2) Compound Fund 3) Mint Fund. These funds are the first line of defense to cover any losses. If these funds are inadequate, the remaining losses will be split pro-rata among all affected investors.
 
 **Q: What's the benefit for Elemental?**
 

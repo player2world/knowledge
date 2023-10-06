@@ -2,7 +2,7 @@
 
 At Elemental, we follow our own unique epoch schedule, with each epoch spanning 5 days. Each epoch begins and ends at 0000h UTC. Below are the start and end dates for a selection of sample epochs.
 
-## Epoch Schedule
+## Epoch Schedule Sample
 
 30 Dec 2022
 
