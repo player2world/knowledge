@@ -14,6 +14,8 @@ _Key Risk: Stablecoins depegging, oracle issues._
 
 Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
+Element: Earth
+
 Base Token: USDC (EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)
 
 APR Type: Fixed

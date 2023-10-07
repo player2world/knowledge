@@ -22,6 +22,8 @@ _Key Risk: Protocols getting exploited, key tokens depegging (>5%), Portal Bridg
 
 Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
+Element: Water
+
 Base Token: Wrapped ETH (7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs)
 
 APR Type: Fixed

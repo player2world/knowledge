@@ -16,6 +16,8 @@ _Key Risk: Protocols getting exploited._
 
 Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
 
+Element: Water
+
 Base Token: SOL
 
 APR Type: Fixed
