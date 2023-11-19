@@ -29,7 +29,7 @@
     * [Riviera Fund](businesses/elemental/riviera.md)
     * [Granite Fund](businesses/elemental/granite.md)
     * [Loam Fund](businesses/elemental/loam.md)
-    * [Geodium Fund](businesses/elemental/riviera-1.md)
+    * [Geodium Fund](businesses/elemental/geodium.md)
     * [Ether Fund](businesses/elemental/ether.md)
     * [Elemental Epoch](businesses/elemental/elemental-epoch.md)
     * [Manifesto](businesses/elemental/manifesto.md)
