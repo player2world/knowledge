@@ -4,7 +4,7 @@
 
 The Geodium Fund marks a significant milestone for us as it represents our first-ever partnership, joining forces with Raydium.
 
-Dedicated exclusively to bolstering the liquidity of Raydium's USDC-USDT pool, the Geodium Fund meticulously narrows its exposure, limiting risk primarily to USDT and the USDC-USDT pool on Raydium. This strategic approach places the fund at the lowest end of the risk spectrum.
+Dedicated to bolstering the liquidity of Raydium's USDC-USDT pool, the Geodium Fund meticulously narrows its exposure, limiting risk primarily to USDT and the USDC-USDT pool on Raydium. This strategic approach places the fund at the lowest end of the risk spectrum.
 
 A distinctive feature of the fund is the support of RAY emissions, ensuring steady and competitive yields for our investors. Our commitment to maintaining these returns is unwavering, and we pride ourselves on that stability.
 
