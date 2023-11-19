@@ -8,7 +8,7 @@ Dedicated to bolstering the liquidity of Raydium's USDC-USDT pool, the Geodium F
 
 A distinctive feature of the fund is the support of RAY emissions, ensuring steady and competitive yields for our investors. Our commitment to maintaining these returns is unwavering, and we pride ourselves on that stability.
 
-At Elemental, we believe in creating synergistic partnerships that benefit all parties involved, not just in the short term, but over an extended horizon. Our innovative Compound Fund grows every epoch and this becomes permanent liquidity for Raydium, as long as the fund remains operational.
+At Elemental, we believe in creating synergistic partnerships that benefit all parties involved, not just in the short term, but over an extended horizon. Our innovative Compound Fund grows every epoch and becomes permanent liquidity for Raydium, as long as the fund remains operational.
 
 With the Geodium Fund, we offer an opportunity that stands out for its competitive yields, minimized risk, and the provision of ever-increasing liquidity to our partner, Raydium. It's a partnership model that encapsulates the very essence of a mutually beneficial alliance.
 
