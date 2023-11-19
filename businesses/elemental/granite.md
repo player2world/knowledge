@@ -8,7 +8,7 @@ As an actively managed fund, Granite generates returns primarily through yield f
 
 Drawing inspiration from a stone that is fundamental to the earth’s core, the Granite Fund stands as the cornerstone of Elemental.
 
-_Key Risk: Stablecoins depegging, oracle issues._
+_Key Risk: Various stablecoins depegging, oracle issues, protocols getting exploited._
 
 ## Artwork
 

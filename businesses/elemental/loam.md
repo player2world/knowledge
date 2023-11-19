@@ -8,7 +8,7 @@ Managed actively, Loam generates returns through yield farming and arbitrage opp
 
 The fund is named after a type of soil that is nutrient-rich and has the right texture to retain the perfect amount of water, making it ideal for gardening and agricultural purposes. Loam Fund is denominated in USDC, and we envision it as a stable foundation for growing your portfolio steadily.
 
-_Key Risk: Stablecoins depegging, oracle issues._
+_Key Risk: Various stablecoins depegging, oracle issues, protocols getting exploited._
 
 ## Fund Characteristics
 
