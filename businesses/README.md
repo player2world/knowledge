@@ -12,4 +12,4 @@ Businesses may be native to Player 2, or exist as a simple storefront that links
 
 This section features the native businesses that are active or being built on Player 2.
 
-All businesses pay a 5% sales tax that will be used to buy and burn DEO.
+All businesses pay a 5% sales tax that will be used to buyback DEO.
