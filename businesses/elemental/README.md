@@ -10,6 +10,10 @@ Evolving through various iterations, Elemental underscores its commitment to con
 
 ## A Walk Through History
 
+#### 26 Oct 2023 - Inaugural Partnership Fund
+
+Marking Elemental's first external collaboration, the Geodium Fund was launched in partnership with Raydium. This initiative combines Raydium's yield support with Elemental's focused enhancement of their liquidity pools, demonstrating a commitment to pioneering sustainable and mutually beneficial partnerships.
+
 #### 06 Sep 2023 - Ether Fund Sunset
 
 Due to limited yield opportunities on Solana, Elemental decided to sunset its Ether Fund. All deposits and associated yields were returned to its investors. While this decision was necessary for that point in time, Elemental remain open to reintroducing the Ether Fund should market dynamics shift favorably in the future.
