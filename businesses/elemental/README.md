@@ -1,12 +1,12 @@
 ---
-description: Passive Income Made Simple
+description: DeFi Made Simple
 ---
 
 # Elemental
 
-Elemental is a user-friendly investment platform that gives users access to a range of actively managed funds within Solana. Our platform simplifies the investment process, empowering users to deposit funds and embark on their journey towards earning passive income effortlessly. Elemental caters to beginners and seasoned investors alike by providing an array of funds, each with a unique strategy, promoting diversification and the potential for higher returns.
+Elemental offers straightforward access to various actively managed DeFi funds, featuring transparent, fixed-yields without hidden fees. Suitable for both beginners and experienced investors, our platform presents diverse funds with unique strategies, fostering diversification and enhancing return potential.
 
-Evolving through various iterations, Elemental underscores its commitment to continual growth and adaptation, making investing a smoother journey for all. From its humble beginnings with just 100 $SOL, to becoming pioneers of fixed-yield returns in DeFi, each step forward brings Elemental closer to delivering the optimal risk-adjusted yield to its users, with utmost simplicity.
+Evolving through various iterations, Elemental underscores its commitment to continual growth and adaptation, making DeFi investing a smoother journey for all. From its humble beginnings with just 100 $SOL, to becoming pioneers of fixed-yield returns in DeFi, each step forward brings Elemental closer to delivering the optimal risk-adjusted yield to its users, with utmost simplicity.
 
 ## A Walk Through History
 

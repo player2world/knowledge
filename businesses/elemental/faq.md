@@ -10,11 +10,11 @@ A: Since we derive yields outside of Elemental, they are sustainable so long as 
 
 **Q: How are you able to give a fixed yield then?**
 
-A: We have a compound fund which also acts as a buffer. As we expect our revenue to fluctuate, we created this fund to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
+A: We have a Compound Fund which also acts as a buffer. As we expect our revenue to fluctuate, we created this fund to absorb the volatility. For clarity, while the yield is **fixed for each Elemental Epoch**, the yield may be **adjusted from epoch-to-epoch**. However, we endeavor to make adjustments as infrequent as possible.
 
 **Q: Elemental Epoch?**
 
-A: An Elemental Epoch is a 5-day period used to manage and unwind positions for timely withdrawal payouts. View schedule: [elemental-epoch.md](elemental-epoch.md "mention")
+A: An Elemental Epoch is a 5-day period used to manage and unwind positions for timely withdrawal payouts. View sample schedule: [elemental-epoch.md](elemental-epoch.md "mention")
 
 **Q: When can I deposit?**
 
@@ -22,7 +22,7 @@ A: You may deposit anytime so long as the fund has available capacity. Note that
 
 **Q: When can I withdraw?**
 
-A: You may initiate a withdrawal anytime. However, your funds will need to complete a full [Elemental Epoch](elemental-epoch.md) after your initiation request. For example, if you initiate a withdrawal on 4 Dec, you will need to wait for the full epoch (5 Dec - 10 Dec) to complete; your funds will be available on 10 Dec. This delay is necessary for us to wind down more complex positions that may require many days.
+A: You may initiate a withdrawal anytime. However, your funds will need to complete a full [Elemental Epoch](elemental-epoch.md) after your initiation request. For example, if you initiate a withdrawal on 4 Dec, you will need to wait for the full epoch (5 Dec - 10 Dec) to complete; your funds will be available on 10 Dec. This delay is necessary for us to unwind more complex positions that may require many days.
 
 **Q: Is Elemental's yield expected to drop over the long run?**
 
@@ -34,11 +34,11 @@ A: Yes, all investments inherently carry risk. Despite our diligence in seeking 
 
 **Q: What happens if the funds lose money?**
 
-A: In the unfortunate event of losses, Elemental has three backstops: 1) Insurance Fund 2) Compound Fund 3) Mint Fund. These funds are the first line of defense to cover any losses. If these funds are inadequate, the remaining losses will be split pro-rata among all affected investors.
+A: In the unfortunate event of losses, Elemental has two backstops: 1) Insurance Fund 2) Compound Fund. These funds are the first line of defense to cover any losses. If these funds are inadequate, the remaining losses will be split pro-rata among all affected investors.
 
 **Q: What's the benefit for Elemental?**
 
-A: Elemental operates with a long-term vision of growth and sustainability. After we disburse yields, pay the Player 2 sales tax, execute $ELE buybacks, contribute to the insurance fund, and reinvest for compound growth, the remaining profits are retained by Elemental. These resources support our ongoing operations and continual enhancement of our services.
+A: Elemental operates with a long-term vision of growth and sustainability. After we disburse yields, pay the Player 2 sales tax, execute $ELE buybacks, contribute to the Compound and Insurance Funds, the remaining profits are retained by Elemental. These resources support our ongoing operations and continual enhancement of our services.
 
 **Q: I'm interested, how do I join Elemental?**
 
