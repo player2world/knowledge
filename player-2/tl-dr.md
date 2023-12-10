@@ -26,8 +26,8 @@ The $DEO token is the beating heart of Player 2, and it's unlike any other token
 
 We envision $DEO's value to appreciate over time, and for that, we've instituted the Twin Engines:
 
-* **Reserve Augmentation:** A portion of Player 2's revenue feeds into expanding our reserve. This continuous input not only enhances the backing for each token but also serves as an advantage for businesses and investors.
-* **Buyback Initiative:** Every business on Player 2 contributes a 5% tax, facilitating our community's growth. These funds are strategically used to repurchase $DEO, setting in motion an increase in buy pressure and a deflationary trend. Both of these together drive $DEO's value upwards.
+* **Treasury Growth:** A portion of Player 2's revenue feeds into expanding our Treasury, and the Treasury generates its own yields too. This continuous growth enhances the backing for each token.
+* **Buyback Initiative:** Every business on Player 2 contributes a 5% tax. These funds are strategically used to repurchase $DEO and then added into liquidity pools. This increases buy pressure and creates deeper permanent $DEO liquidity, allowing for increasingly larger swaps with minimal slippage.
 
 ## We hang out on [Discord](https://discord.gg/player2)
 
