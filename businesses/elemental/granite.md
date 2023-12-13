@@ -12,7 +12,7 @@ _Key Risk: Various stablecoins depegging, oracle issues, protocols getting explo
 
 ## Artwork
 
-<figure><img src="../../.gitbook/assets/fund_artwork_granite.png" alt=""><figcaption><p>Granite Fund Artwork</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fund_artwork_granite (1).png" alt=""><figcaption><p>Granite Fund Artwork</p></figcaption></figure>
 
 ## Fund Characteristics
 
