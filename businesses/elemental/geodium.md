@@ -38,6 +38,8 @@ Access: Public
 
 Minimum Deposit: 200 USDC
 
-Maximum Deposit: 10,000 USDC
+Maximum Individual Deposit: 100,000 USDC
+
+Maximum Fund Capacity: 200,000 USDC
 
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.

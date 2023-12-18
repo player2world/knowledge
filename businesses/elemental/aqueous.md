@@ -32,4 +32,6 @@ Access: Requires NFT
 
 Deposit: 10 SOL per NFT
 
+Maximum Fund Capacity: 500 SOL
+
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.

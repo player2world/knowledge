@@ -34,4 +34,6 @@ Access: Requires NFT
 
 Deposit: 200 USDC per NFT
 
+Maximum Fund Capacity: 30,000 USDC
+
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.
