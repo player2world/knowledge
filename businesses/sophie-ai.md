@@ -1,5 +1,7 @@
 # P2 Sophie
 
+#### <mark style="color:red;">As we reached mid-2023, we made the strategic decision to sunset P2 Sophie. This decision came in light of the groundbreaking advancements and global impact of ChatGPT. Our team takes immense pride in having launched Sophie prior to ChatGPT's public debut. However, we've realized that competing with the rapid pace and extensive resources of larger tech giants is not something our team is able to do.</mark>
+
 ## Meet Sophie!
 
 P2 Sophie is an intelligent, family-friendly AI chatbot. She helps communities greatly improve their onboarding experience by responding automatically with helpful answers in the chat.
