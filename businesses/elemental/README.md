@@ -6,9 +6,13 @@ description: DeFi Made Simple
 
 Elemental offers straightforward access to various actively managed DeFi funds, featuring transparent, fixed-yields without hidden fees. Suitable for both beginners and experienced investors, our platform presents diverse funds with unique strategies, fostering diversification and enhancing return potential.
 
-Evolving through various iterations, Elemental underscores its commitment to continual growth and adaptation, making DeFi investing a smoother journey for all. From its humble beginnings with just 100 $SOL, to becoming pioneers of fixed-yield returns in DeFi, each step forward brings Elemental closer to delivering the optimal risk-adjusted yield to its users, with utmost simplicity.
+From its humble beginnings with just $1000 in deposits, to becoming pioneers of fixed-yield returns in DeFi, Elemental underscores its commitment to continual growth and adaptation, all while keeping DeFi investing simple.
 
 ## A Walk Through History
+
+#### 20 Dec 2023 - Entering Liquid Staking
+
+The Geyser Fund leverages bSOL, a yield-bearing liquid staking token, to offer layered yields. Unique in its offering, Geyser also introduces BLZE tokens atop its base yield, creating dynamic and potentially higher returns. This launch underscores Elemental's ongoing commitment to exploring novel yield generation methods and solidifying strategic partnerships in the ecosystem.
 
 #### 26 Oct 2023 - Inaugural Partnership Fund
 
