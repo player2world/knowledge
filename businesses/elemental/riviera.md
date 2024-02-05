@@ -32,7 +32,7 @@ Insurance Coverage: Partial
 
 Access: Public
 
-Minimum Deposit: 800 SOL
+Minimum Deposit: 500 SOL
 
 Maximum Individual Deposit: 5,000 SOL
 
