@@ -32,7 +32,7 @@ Insurance Coverage: Partial
 
 Access: Requires NFT
 
-Deposit: 200 USDC per NFT
+Deposit: 1000 USDC per NFT
 
 Maximum Fund Capacity: 30,000 USDC
 

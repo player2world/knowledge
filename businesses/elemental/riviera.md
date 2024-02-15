@@ -34,8 +34,8 @@ Access: Public
 
 Minimum Deposit: 500 SOL
 
-Maximum Individual Deposit: 5,000 SOL
+Maximum Individual Deposit: 2,000 SOL
 
-Maximum Fund Capacity: 20,000 SOL
+Maximum Fund Capacity: 3,000 SOL
 
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.

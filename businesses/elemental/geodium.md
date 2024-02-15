@@ -36,10 +36,10 @@ Insurance Coverage: Partial
 
 Access: Public
 
-Minimum Deposit: 200 USDC
+Minimum Deposit: 1000 USDC
 
 Maximum Individual Deposit: 100,000 USDC
 
-Maximum Fund Capacity: 200,000 USDC
+Maximum Fund Capacity: 120,000 USDC
 
 Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.
