@@ -1,6 +1,6 @@
 # Geodium Fund
 
-## Geodium Fund (9% APR)
+## Geodium Fund (11% APR)
 
 The Geodium Fund marks a significant milestone for us as it represents our first-ever partnership, joining forces with Raydium.
 
