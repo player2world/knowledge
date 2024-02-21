@@ -24,8 +24,6 @@ Base Token: USDC (EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)
 
 APR Type: Fixed
 
-Compounds Gains: Yes
-
 Capital Protected: Yes
 
 Insurance Coverage: Partial

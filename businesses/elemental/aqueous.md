@@ -22,8 +22,6 @@ Base Token: SOL
 
 APR Type: Fixed
 
-Compounds Gains: Yes
-
 Capital Protected: Yes
 
 Insurance Coverage: Partial

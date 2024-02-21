@@ -24,8 +24,6 @@ Base Token: bSOL (bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1)
 
 APR Type: Fixed
 
-Compounds Gains: Yes
-
 Capital Protected: Yes
 
 Insurance Coverage: Partial

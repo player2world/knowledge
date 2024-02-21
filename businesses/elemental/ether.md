@@ -17,27 +17,3 @@ _Key Risk: Protocols getting exploited, key tokens depegging, Portal Bridge gett
 ## Artwork
 
 <figure><img src="../../.gitbook/assets/23_08_24_ether_revised_apr.png" alt=""><figcaption><p>Ether Fund Artwork</p></figcaption></figure>
-
-## Fund Characteristics
-
-Fund Manager: P2 Moo ([https://twitter.com/player2moo](https://twitter.com/player2moo))
-
-Element: Water
-
-Base Token: Wrapped ETH (7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs)
-
-APR Type: Fixed
-
-Compounds Gains: Yes
-
-Capital Protected: Yes
-
-Insurance Coverage: Partial
-
-Access: Requires NFT
-
-Minimum Deposit: 0.1 WETH
-
-Maximum Deposit: 0.5 WETH per NFT
-
-Withdrawal Period: Minimum 1 epoch and at the end of each epoch only. 1 epoch = 5 days.
