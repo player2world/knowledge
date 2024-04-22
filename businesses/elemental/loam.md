@@ -1,6 +1,6 @@
 # Loam Fund
 
-## Loam Fund (13% APR)
+## Loam Fund (25% APR)
 
 The Loam Fund provides capital protection, risk-adjusted returns, and accessibility to all.
 
